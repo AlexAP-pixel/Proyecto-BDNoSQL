@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- Elemento raíz -->
+    <xs:element name="Refaccionaria">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- Elemento Refacciones -->
+                <xs:element name="Refacciones">
+                    <xs:complexType>
+                        <xs:sequence>
+                          <!-- Elemento Refaccion -->
+                            <xs:element name="Refaccion" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                      <!-- Caracteristicas de la refacción-->
+                                        <xs:element name="marca" type="xs:string"/>
+                                        <xs:element name="precio" type="xs:decimal"/>
+                                        <xs:element name="descripcion" type="xs:string"/>
+                                        <xs:element name="cantidadExistente" type="xs:int"/>
+                                        <xs:element name="fechaUltimoPrecio" type="xs:date"/>
+                                        <xs:element name="promocion">
+                                          <!-- Elementos que componene a la promoción-->
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="descuento" type="xs:decimal"/>
+                                                    <xs:element name="fechaInicio" type="xs:date"/>
+                                                    <xs:element name="fechaTermino" type="xs:date"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <!-- La refaccion tendra un motor asociado-->
+                                        <xs:element name="Motores">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="Motor" maxOccurs="unbounded">
+                                                        <xs:complexType>
+                                                            <xs:attribute name="IDMotor" type="xs:string" use="required"/>
+                                                        </xs:complexType>
+                                                    </xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="IDRefaccion" type="xs:string" use="required"/> <!-- Especificamos que la refaccion tendra un ID-->
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <!-- Declaramos otro elemento llamado Motores-->
+                <xs:element name="Motores">
+                    <xs:complexType>
+                        <xs:sequence>
+                          <!-- Declaramos el elemento motor -->
+                            <xs:element name="Motor" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                      <!-- Caracteristicas del motor -->
+                                        <xs:element name="posicionPistones" type="xs:string"/>
+                                        <xs:element name="numeroPistones" type="xs:int"/>
+                                        <xs:element name="numeroLitros" type="xs:decimal"/>
+                                        <xs:element name="numeroValvulas" type="xs:int"/>
+                                        <xs:element name="tipoArbol" type="xs:string"/>
+                                        <xs:element name="infoAdicional" type="xs:string"/>
+                                        <xs:element name="rangoModelos" type="xs:string"/>
+                                        <xs:element name="Refacciones">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="Refaccion" maxOccurs="unbounded"> <!-- Un motor puede tener varias refacciones-->
+                                                        <xs:complexType>
+                                                            <xs:attribute name="IDRefaccion" type="xs:string" use="required"/> <!-- Cada refaccion tendra un ID-->
+                                                        </xs:complexType>
+                                                    </xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <!-- El motor puede tener varios aotomoviles-->
+                                        <xs:element name="Automoviles">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="Automovil" maxOccurs="unbounded"> <!-- Un motor puede tener varios automoviles-->
+                                                        <xs:complexType>
+                                                            <xs:attribute name="IDAuto" type="xs:string" use="required"/> <!-- Cada automovil tendra un ID-->
+                                                        </xs:complexType>
+                                                    </xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="IDMotor" type="xs:string" use="required"/> <!-- Cada motor tendra un ID-->
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <!-- Declaramos otro elemento llamado Automoviles-->
+                <xs:element name="Automoviles">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Automovil" maxOccurs="unbounded"> <!-- Un automovil puede tener varios motores-->
+                                <xs:complexType>
+                                    <xs:sequence>
+                                      <!-- Caracteristicas del automovil -->
+                                        <xs:element name="Marca" type="xs:string"/>
+                                        <xs:element name="Submarca" type="xs:string"/>
+                                        <xs:element name="Modelo" type="xs:string"/>
+                                        <!-- Cada automovil debe de tener un Motor-->
+                                        <xs:element name="Motor">
+                                            <xs:complexType>
+                                                <xs:attribute name="IDMotor" type="xs:string" use="required"/> <!-- Cada motor tendra un ID-->
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="IDAuto" type="xs:string" use="required"/> <!-- Cada automovil tendra un ID-->
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <!-- Declaramos otro elemento llamado Clientes-->
+                <xs:element name="Clientes" minOccurs="0" maxOccurs="unbounded">
+                  <xs:complexType>
+                      <xs:sequence>
+                          <xs:element name="Cliente" maxOccurs="unbounded"> 
+                              <xs:complexType>
+                                  <xs:sequence>
+                                      <xs:element name="datosPersonales"> <!-- Datos personales del cliente-->
+                                          <xs:complexType>
+                                              <xs:sequence>
+                                                  <!-- Características de los datos personales-->
+                                                  <xs:element name="correo" type="xs:string"/>
+                                                  <xs:element name="contraseña" type="xs:string"/>
+                                                  <xs:element name="nombre" type="xs:string"/>
+                                                  <!--Los apellidos estan constituidos por paterno y materno-->
+                                                  <xs:element name="apellidos">
+                                                      <xs:complexType>
+                                                          <xs:sequence>
+                                                              <xs:element name="paterno" type="xs:string"/>
+                                                              <xs:element name="materno" type="xs:string"/>
+                                                          </xs:sequence>
+                                                      </xs:complexType>
+                                                  </xs:element>
+                                              </xs:sequence>
+                                          </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="datosFiscales"> <!-- Datos fiscales del cliente-->
+                                          <xs:complexType>
+                                              <xs:sequence>
+                                                  <!-- Características de los datos fiscales-->
+                                                  <xs:element name="rfc" type="xs:string"/>
+                                                  <xs:element name="curp" type="xs:string"/>
+                                                  <xs:element name="domicilio" type="xs:string"/>
+                                                  <xs:element name="cp" type="xs:string"/>
+                                                  <xs:element name="telefono" type="xs:string"/>
+                                              </xs:sequence>
+                                          </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="tarjetasBancarias"> <!-- Tarjetas bancarias del cliente-->
+                                          <xs:complexType>
+                                              <xs:sequence>
+                                                  <xs:element name="tarjetaBancaria" maxOccurs="unbounded"> <!-- Puede tener varias tarjetas bancarias-->
+                                                      <xs:complexType>
+                                                          <!-- Características de las tarjetas bancarias-->
+                                                          <xs:attribute name="IDTarjeta" type="xs:string" use="required"/>
+                                                          <xs:attribute name="fechaVencimiento" type="xs:date" use="required"/>
+                                                          <xs:attribute name="cvv" type="xs:string" use="required"/>
+                                                      </xs:complexType>
+                                                  </xs:element>
+                                              </xs:sequence>
+                                          </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="Carritos"> <!-- Cada cliente tiene un carrito -->
+                                          <xs:complexType>
+                                              <xs:sequence>
+                                                  <xs:element name="Carrito" maxOccurs="unbounded"> <!-- Puede tener varios carritos-->
+                                                      <xs:complexType>
+                                                          <xs:attribute name="IDCarrito" type="xs:string" use="required"/> <!-- Cada carrito tendra un ID-->
+                                                      </xs:complexType>
+                                                  </xs:element>
+                                              </xs:sequence>
+                                          </xs:complexType>
+                                      </xs:element>
+                                  </xs:sequence>
+                                  <xs:attribute name="IDCliente" type="xs:string" use="required"/> <!-- Cada cliente tendra un ID-->
+                                  <xs:attribute name="Autentificacion" type="xs:boolean" use="required"/> <!-- Cada cliente tendra una autentificación-->
+                              </xs:complexType>
+                          </xs:element>
+                      </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+
+                <!-- Declaramos otro elemento llamado Carritos-->
+                <xs:element name="Carritos" minOccurs="0" maxOccurs="unbounded"> 
+                  <xs:complexType>
+                      <xs:sequence>
+                          <xs:element name="Carrito" maxOccurs="unbounded"> <!-- Puede tener varios carritos-->
+                              <xs:complexType>
+                                  <xs:sequence>
+                                      <xs:element name="Cliente"> <!-- Cada carrito tiene un cliente-->
+                                          <xs:complexType>
+                                              <xs:attribute name="IDCliente" type="xs:string" use="required"/> <!-- Cada cliente tendra un ID-->
+                                          </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="Refacciones"> <!-- Cada carrito tiene refacciones-->
+                                          <xs:complexType>
+                                              <xs:sequence>
+                                                  <xs:element name="Refaccion" maxOccurs="unbounded"> <!-- Puede tener varias refacciones-->
+                                                      <xs:complexType>
+                                                          <xs:sequence>
+                                                              <xs:element name="cantidadRefaccion" type="xs:integer"/> <!-- Cada refaccion tendra una cantidad-->
+                                                              <xs:element name="subtotalRefaccion" type="xs:decimal"/> <!-- Cada refaccion tendra un subtotal-->
+                                                          </xs:sequence>
+                                                          <xs:attribute name="IDRefaccion" type="xs:string" use="required"/> <!-- Cada refaccion tendra un ID-->
+                                                      </xs:complexType>
+                                                  </xs:element>
+                                              </xs:sequence>
+                                          </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="totalCarrito" type="xs:decimal"/> <!-- Cada carrito tendra un total-->
+                                  </xs:sequence>
+                                  <xs:attribute name="IDCompra" type="xs:string" use="required"/> <!-- Cada carrito tendra un ID-->
+                                  <xs:attribute name="fechaCompra" type="xs:date" use="required"/> <!-- Cada carrito tendra una fecha de compra-->
+                                  <xs:attribute name="horaCompra" type="xs:time" use="required"/> <!-- Cada carrito tendra una hora de compra-->
+                                  <xs:attribute name="estadoCarrito" type="xs:string" use="required"/> <!-- Cada carrito tendra un estado-->
+                              </xs:complexType>
+                          </xs:element>
+                      </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

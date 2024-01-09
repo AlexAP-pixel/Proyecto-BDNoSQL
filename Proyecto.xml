@@ -1,0 +1,3487 @@
+<Refaccionaria>
+    <!-- Refacciones-->
+    <Refacciones>
+        <Refaccion IDRefaccion="PISTON-STD-973-M">
+            <marca>MORESA</marca>
+            <precio>680.00</precio>
+            <descripcion>Pistón en medida estándar, 66.00 mm de diámetro</descripcion>
+            <cantidad_existente>50</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-020-973-M">
+            <marca>MORESA</marca>
+            <precio>680.00</precio>
+            <descripcion>Pistón en medida punto cero veinte pulgadas, 66.00 mm de diámetro</descripcion>
+            <cantidad_existente>50</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-030-973-M">
+            <marca>MORESA</marca>
+            <precio>680.00</precio>
+            <descripcion>Pistón en medida punto cero treinta pulgadas, 66.00 mm de diámetro</descripcion>
+            <cantidad_existente>50</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+            <marca>MORESA</marca>
+            <precio>420.00</precio>
+            <descripcion>Anillos para PISTON-STD-973-M</descripcion>
+            <cantidad_existente>20</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-020-MAP5136C-M">
+            <marca>MORESA</marca>
+            <precio>420.00</precio>
+            <descripcion>Anillos para PISTON-020-973-M</descripcion>
+            <cantidad_existente>15</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-030-MAP5136C-M">
+            <marca>MORESA</marca>
+            <precio>420.00</precio>
+            <descripcion>Anillos para PISTON-030-973-M</descripcion>
+            <cantidad_existente>10</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PERNO-5165-M">
+            <marca>MORESA</marca>
+            <precio>400.00</precio>
+            <descripcion>Perno de 17.00 mm por 46.50 mm</descripcion>
+            <cantidad_existente>6</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7946-M">
+            <marca>MORESA</marca>
+            <precio>120.00</precio>
+            <descripcion>Válvula de escape: 27.06 mm de cabeza, 100.25 mm de distancia y 5.45 mm de vástago</descripcion>
+            <cantidad_existente>24</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7947X-M">
+            <marca>MORESA</marca>
+            <precio>132.00</precio>
+            <descripcion>Válvula de admisión: 23.00 mm de cabeza, 100.58 mm de distancia, 5.47 mm de vástago</descripcion>
+            <cantidad_existente>34</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="BALANCIN-E-B220H-M">
+            <marca>MORESA</marca>
+            <precio>100.00</precio>
+            <descripcion>Balancín de escape</descripcion>
+            <cantidad_existente>5</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+            <marca>MORESA</marca>
+            <precio>100.00</precio>
+            <descripcion>Balancín de admisión</descripcion>
+            <cantidad_existente>10</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-STD-1136-M">
+            <marca>MORESA</marca>
+            <precio>584.00</precio>
+            <descripcion>Pistón en medida estándar, 67.00 mm de diámetro</descripcion>
+            <cantidad_existente>10</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-020-1136-M">
+            <marca>MORESA</marca>
+            <precio>584.00</precio>
+            <descripcion>Pistón en medida punto cero veinte, 67.00 mm de diámetro</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-030-1136-M">
+            <marca>MORESA</marca>
+            <precio>584.00</precio>
+            <descripcion>Pistón en medida punto cero treinta, 67.00 mm de diámetro</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-STD-MAP5298C-M">
+            <marca>MORESA</marca>
+            <precio>234.00</precio>
+            <descripcion>Anillos para PISTON-STD-1136-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-020-MAP5298C-M">
+            <marca>MORESA</marca>
+            <precio>234.00</precio>
+            <descripcion>Anillos para PISTON-020-1136-M</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-030-MAP5298C-M">
+            <marca>MORESA</marca>
+            <precio>234.00</precio>
+            <descripcion>Anillos para PISTON-030-1136-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-STD-MAP5298F-M">
+            <marca>MORESA</marca>
+            <precio>234.00</precio>
+            <descripcion>Anillos para PISTON-STD-1136-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-020-MAP5298F-M">
+            <marca>MORESA</marca>
+            <precio>234.00</precio>
+            <descripcion>Anillos para PISTON-020-1136-M</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-030-MAP5298F-M">
+            <marca>MORESA</marca>
+            <precio>234.00</precio>
+            <descripcion>Anillos para PISTON-030-1136-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7178-M">
+            <marca>MORESA</marca>
+            <precio>120.00</precio>
+            <descripcion>Válvula de escape: 28.00 mm de cabeza, 98.50 mm de distancia y 5.44 mm de vástago</descripcion>
+            <cantidad_existente>18</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7177-M">
+            <marca>MORESA</marca>
+            <precio>132.00</precio>
+            <descripcion>Válvula de admisión: 25.00 mm de cabeza, 99.00 mm de distancia, 5.47 mm de vástago</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="BALANCIN-E-B217H-M">
+            <marca>MORESA</marca>
+            <precio>110.00</precio>
+            <descripcion>Balancín de escape</descripcion>
+            <cantidad_existente>6</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="BALANCIN-A-B216H-M">
+            <marca>MORESA</marca>
+            <precio>105.00</precio>
+            <descripcion>Balancín de admisión</descripcion>
+            <cantidad_existente>10</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-STD-1008-M">
+            <marca>MORESA</marca>
+            <precio>560.00</precio>
+            <descripcion>Pistón en medida estándar, 67.00 mm de diámetro</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-020-1008-M">
+            <marca>MORESA</marca>
+            <precio>584.00</precio>
+            <descripcion>Pistón en medida punto cero veinte, 67.00 mm de diámetro</descripcion>
+            <cantidad_existente>10</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-030-1008-M">
+            <marca>MORESA</marca>
+            <precio>584.00</precio>
+            <descripcion>Pistón en medida punto cero treinta, 67.00 mm de diámetro</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7008-M">
+            <marca>MORESA</marca>
+            <precio>120.00</precio>
+            <descripcion>Válvula de escape: 27.00 mm de cabeza, 99.10 mm de distancia y 5.44 mm de vástago</descripcion>
+            <cantidad_existente>18</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7007-M">
+            <marca>MORESA</marca>
+            <precio>132.00</precio>
+            <descripcion>Válvula de admisión: 23.50 mm de cabeza, 99.50 mm de distancia, 5.47 mm de vástago</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2023-12-31</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.0</descuento>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-STD-942-M">
+            <marca>MORESA</marca>
+            <precio>560.00</precio>
+            <descripcion>Pistón en medida estándar, 73.97 mm de diámetro</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-020-942-M">
+            <marca>MORESA</marca>
+            <precio>540.00</precio>
+            <descripcion>Pistón en medida punto cero veinte, 73.97 mm de diámetro</descripcion>
+            <cantidad_existente>6</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-030-942-M">
+            <marca>MORESA</marca>
+            <precio>550.00</precio>
+            <descripcion>Pistón en medida punto cero treinte, 73.97 mm de diámetro</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-STD-MAP4858C-M">
+            <marca>MORESA</marca>
+            <precio>220.00</precio>
+            <descripcion>Anillos para PISTON-STD-942-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-020-MAP4858C-M">
+            <marca>MORESA</marca>
+            <precio>220.00</precio>
+            <descripcion>Anillos para PISTON-020-942-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-030-MAP4858C-M">
+            <marca>MORESA</marca>
+            <precio>220.00</precio>
+            <descripcion>Anillos para PISTON-030-942-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-STD-MAP4858F-M">
+            <marca>MORESA</marca>
+            <precio>220.00</precio>
+            <descripcion>Anillos para PISTON-STD-942-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-020-MAP4858F-M">
+            <marca>MORESA</marca>
+            <precio>220.00</precio>
+            <descripcion>Anillos para PISTON-020-942-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-030-MAP4858F-M">
+            <marca>MORESA</marca>
+            <precio>220.00</precio>
+            <descripcion>Anillos para PISTON-030-942-M</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PERNO-5234-M">
+            <marca>MORESA</marca>
+            <precio>400.00</precio>
+            <descripcion>Perno de 18.00 mm por 64.00 mm</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-9864-M">
+            <marca>MORESA</marca>
+            <precio>120.00</precio>
+            <descripcion>Válvula de escape: 20.05 mm de cabeza, 104.43 mm de distancia y 7.00 mm de vástago</descripcion>
+            <cantidad_existente>16</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-9863-M">
+            <marca>MORESA</marca>
+            <precio>132.00</precio>
+            <descripcion>Válvula de admisión: 34.50 mm de cabeza, 103.96 mm de distancia, 7.04 mm de vástago</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PUNTERIA-H379-M">
+            <marca>MORESA</marca>
+            <precio>165.00</precio>
+            <descripcion>Puntería</descripcion>
+            <cantidad_existente>5</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-STD-1006-M">
+            <marca>MORESA</marca>
+            <precio>580.00</precio>
+            <descripcion>Pistón en medida estándar, 75.50 mm de diámetro</descripcion>
+            <cantidad_existente>16</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-020-1006-M">
+            <marca>MORESA</marca>
+            <precio>580.00</precio>
+            <descripcion>Pistón en medida punto cero veinte, 75.50 mm de diámetro</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-030-1006-M">
+            <marca>MORESA</marca>
+            <precio>580.00</precio>
+            <descripcion>Pistón en medida punto cero treinta, 75.50 mm de diámetro</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-STD-MAP4782F-M">
+            <marca>MORESA</marca>
+            <precio>240.00</precio>
+            <descripcion>Anillos para PISTON-STD-1006-M</descripcion>
+            <cantidad_existente>6</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-020-MAP4782F-M">
+            <marca>MORESA</marca>
+            <precio>240.00</precio>
+            <descripcion>Anillos para PISTON-020-1006-M</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-030-MAP4782F-M">
+            <marca>MORESA</marca>
+            <precio>240.00</precio>
+            <descripcion>Anillos para PISTON-030-1006-M</descripcion>
+            <cantidad_existente>4</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PERNO-5172-M">
+            <marca>MORESA</marca>
+            <precio>450.00</precio>
+            <descripcion>Perno de 18.00 mm por 47.50 mm</descripcion>
+            <cantidad_existente>5</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7002-M">
+            <marca>MORESA</marca>
+            <precio>140.00</precio>
+            <descripcion>Válvula de escape: 32.00 mm de cabeza, 98.30 mm de distancia y 5.96 mm de vástago</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7001-M">
+            <marca>MORESA</marca>
+            <precio>124.00</precio>
+            <descripcion>Válvula de admisión: 27.40 mm de cabeza, 99.00 mm de distancia, 5.97 mm de vástago</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-STD-MAP5664F-M">
+            <marca>MORESA</marca>
+            <precio>240.00</precio>
+            <descripcion>Anillos para PISTON-STD</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-020-MAP5664F-M">
+            <marca>MORESA</marca>
+            <precio>240.00</precio>
+            <descripcion>Anillos para PISTON-020</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-030-MAP5664F-M">
+            <marca>MORESA</marca>
+            <precio>240.00</precio>
+            <descripcion>Anillos para PISTON-030</descripcion>
+            <cantidad_existente>6</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-STD-MAP5664N-M">
+            <marca>MORESA</marca>
+            <precio>240.00</precio>
+            <descripcion>Anillos para PISTON-STD</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-020-MAP5664N-M">
+            <marca>MORESA</marca>
+            <precio>240.00</precio>
+            <descripcion>Anillos para PISTON-020</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-030-MAP5664N-M">
+            <marca>MORESA</marca>
+            <precio>240.00</precio>
+            <descripcion>Anillos para PISTON-030</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-9940-M">
+            <marca>MORESA</marca>
+            <precio>136.50</precio>
+            <descripcion>Válvula de escape: 35.99 mm de cabeza, 111.68 mm de distancia y 8.03 mm de vástago</descripcion>
+            <cantidad_existente>6</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-9939-M">
+            <marca>MORESA</marca>
+            <precio>124.00</precio>
+            <descripcion>Válvula de admisión: 43.99 mm de cabeza, 111.91 mm de distancia, 8.05 mm de vástago</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+            </Motores>
+        </Refaccion>     
+        <Refaccion IDRefaccion="VALVULA-S-9942-M">
+            <marca>MORESA</marca>
+            <precio>139.50</precio>
+            <descripcion>Válvula de escape: 34.01 mm de cabeza, 116.20 mm de distancia y 6.97 mm de vástago</descripcion>
+            <cantidad_existente>24</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-9944-M">
+            <marca>MORESA</marca>
+            <precio>150.00</precio>
+            <descripcion>Válvula de escape con turbo: 34.01 mm de cabeza, 113.92 mm de distancia y 6.97 mm de vástago</descripcion>
+            <cantidad_existente>36</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-9941-M">
+            <marca>MORESA</marca>
+            <precio>140.00</precio>
+            <descripcion>Válvula de admisión: 32.61 mm de cabeza, 115.87 mm de distancia, 6.98 mm de vástago</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-9998-M">
+            <marca>MORESA</marca>
+            <precio>180.50</precio>
+            <descripcion>Válvula de escape: 35.99 mm de cabeza, 113.84 mm de distancia y 6.96 mm de vástago</descripcion>
+            <cantidad_existente>28</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-12V-2.6L-SOHC-G6-G60"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-9997-M">
+            <marca>MORESA</marca>
+            <precio>183.50</precio>
+            <descripcion>Válvula de admisión: 33.32 mm de cabeza, 112.65 mm de distancia, 6.98 mm de vástago</descripcion>
+            <cantidad_existente>24</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MAZDA-L4-12V-2.6L-SOHC-G6-G60"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-STD-1206-M">
+            <marca>MORESA</marca>
+            <precio>680.50</precio>
+            <descripcion>Pistón en medida estándar, 75.00 mm de diámetro</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-020-1206-M">
+            <marca>MORESA</marca>
+            <precio>680.50</precio>
+            <descripcion>Pistón en medida punto cero veinte, 75.00 mm de diámetro</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PISTON-030-1206-M">
+            <marca>MORESA</marca>
+            <precio>680.50</precio>
+            <descripcion>Pistón en medida punto cero treinta, 75.00 mm de diámetro</descripcion>
+            <cantidad_existente>8</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-STD-MAP502N-M">
+            <marca>MORESA</marca>
+            <precio>242.50</precio>
+            <descripcion>Anillos para PISTON-STD-1206-M</descripcion>
+            <cantidad_existente>6</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-020-MAP502N-M">
+            <marca>MORESA</marca>
+            <precio>242.50</precio>
+            <descripcion>Anillos para PISTON-020-1206-M</descripcion>
+            <cantidad_existente>6</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="ANILLOS-030-MAP502N-M">
+            <marca>MORESA</marca>
+            <precio>242.50</precio>
+            <descripcion>Anillos para PISTON-030-1206-M</descripcion>
+            <cantidad_existente>6</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7260-M">
+            <marca>MORESA</marca>
+            <precio>160.50</precio>
+            <descripcion>Válvula de escape: 25.51 mm de cabeza, 88.64 mm de distancia y 4.95 mm de vástago</descripcion>
+            <cantidad_existente>16</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7259-M"> 
+            <marca>MORESA</marca>
+            <precio>175.50</precio>
+            <descripcion>Válvula de admisión: 30.51 mm de cabeza, 87.31 mm de distancia, 4.98 mm de vástago</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7314-M">
+            <marca>MORESA</marca>
+            <precio>168.50</precio>
+            <descripcion>Válvula de escape: 24.40 mm de cabeza, 99.20 mm de distancia y 4.96 mm de vástago</descripcion>
+            <cantidad_existente>16</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.5L-DOHC-MFI-VVT-L2B"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7313-M">
+            <marca>MORESA</marca>
+            <precio>175.50</precio>
+            <descripcion>Válvula de admisión: 27.90 mm de cabeza, 98.40 mm de distancia, 4.97 mm de vástago</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.5L-DOHC-MFI-VVT-L2B"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7204-M">
+            <marca>MORESA</marca>
+            <precio>178.50</precio>
+            <descripcion>Válvula de escape: 23.50 mm de cabeza, 100.00 mm de distancia y 4.97 mm de vástago</descripcion>
+            <cantidad_existente>24</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7203-M">
+            <marca>MORESA</marca>
+            <precio>185.50</precio>
+            <descripcion>Válvula de admisión: 25.90 mm de cabeza, 99.10 mm de distancia, 4.97 mm de vástago</descripcion>
+            <cantidad_existente>20</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7298-M">
+            <marca>MORESA</marca>
+            <precio>188.00</precio>
+            <descripcion>Válvula de escape: 23.29 mm de cabeza, 106.05 mm de distancia y 4.95 mm de vástago</descripcion>
+            <cantidad_existente>22</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.4L-DOHC-LV7-Ecotec"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7297-M">
+            <marca>MORESA</marca>
+            <precio>185.50</precio>
+            <descripcion>Válvula de admisión: 30.28 mm de cabeza, 96.57 mm de distancia, 4.96 mm de vástago</descripcion>
+            <cantidad_existente>18</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.4L-DOHC-LV7-Ecotec"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PUNTERIA-H425-M">
+            <marca>MORESA</marca>
+            <precio>160.00</precio>
+            <descripcion>Puntería</descripcion>
+            <cantidad_existente>10</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.4L-DOHC-LV7-Ecotec"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="BALANCIN-E-B243H-M">
+            <marca>MORESA</marca>
+            <precio>120.00</precio>
+            <descripcion>Balancín de escape</descripcion>
+            <cantidad_existente>10</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="GENERAL-MOTORS-V6-24V-3.6L-DOHC-FLEX-ID"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="BALANCIN-A-B243H-M">
+            <marca>MORESA</marca>
+            <precio>120.00</precio>
+            <descripcion>Balancín de admisión</descripcion>
+            <cantidad_existente>14</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="GENERAL-MOTORS-V6-24V-3.6L-DOHC-FLEX-ID"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-9724-M">
+            <marca>MORESA</marca>
+            <precio>198.00</precio>
+            <descripcion>Válvula de escape: 39.57 mm de cabeza, 120.70 mm de distancia y 8.68 mm de vástago</descripcion>
+            <cantidad_existente>22</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L6-12V-4.9L-OHV-USA-VIN-Y"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-9723-M">
+            <marca>MORESA</marca>
+            <precio>185.50</precio>
+            <descripcion>Válvula de admisión: 45.30 mm de cabeza, 120.70 mm de distancia, 8.68 mm de vástago</descripcion>
+            <cantidad_existente>15</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L6-12V-4.9L-OHV-USA-VIN-Y"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PUNTERIA-H307-M">
+            <marca>MORESA</marca>
+            <precio>170.00</precio>
+            <descripcion>Puntería</descripcion>
+            <cantidad_existente>12</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L6-12V-4.9L-OHV-USA-VIN-Y"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="PUNTERIA-H338-M">
+            <marca>MORESA</marca>
+            <precio>170.00</precio>
+            <descripcion>Puntería</descripcion>
+            <cantidad_existente>20</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L4-8V-2.0L-SOHC-VIN-C-A"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7316-M">
+            <marca>MORESA</marca>
+            <precio>195.50</precio>
+            <descripcion>Válvula de escape: 28.00 mm de cabeza, 104.60 mm de distancia y 5.46 mm de vástago</descripcion>
+            <cantidad_existente>30</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L4-16V-2.0L-DOHC-VIN-9-ECOBOOST-TURBOCARGADO"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7315-M">
+            <marca>MORESA</marca>
+            <precio>190.00</precio>
+            <descripcion>Válvula de admisión: 32.50 mm de cabeza, 103.40 mm de distancia, 5.47 mm de vástago</descripcion>
+            <cantidad_existente>20</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L4-16V-2.0L-DOHC-VIN-9-ECOBOOST-TURBOCARGADO"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-9866-M">
+            <marca>MORESA</marca>
+            <precio>195.50</precio>
+            <descripcion>Válvula de escape: 24.22 mm de cabeza, 99.53 mm de distancia y 5.46 mm de vástago</descripcion>
+            <cantidad_existente>40</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L4-16V-1.4L-DOHC-ZETEC-ZH14-90HP"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-9865-M">
+            <marca>MORESA</marca>
+            <precio>195.00</precio>
+            <descripcion>Válvula de admisión: 28.10 mm de cabeza, 97.33 mm de distancia, 5.97 mm de vástago</descripcion>
+            <cantidad_existente>20</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L4-16V-1.4L-DOHC-ZETEC-ZH14-90HP"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-S-7286-M">
+            <marca>MORESA</marca>
+            <precio>195.50</precio>
+            <descripcion>Válvula de escape: 26.98 mm de cabeza, 103.31 mm de distancia y 5.94 mm de vástago</descripcion>
+            <cantidad_existente>20</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+            </Motores>
+        </Refaccion>
+        <Refaccion IDRefaccion="VALVULA-V-7285-M">
+            <marca>MORESA</marca>
+            <precio>195.00</precio>
+            <descripcion>Válvula de admisión: 31.08 mm de cabeza, 104.26 mm de distancia, 5.95 mm de vástago</descripcion>
+            <cantidad_existente>10</cantidad_existente>
+            <fecha_ultimo_precio>2024-01-01</fecha_ultimo_precio>
+            <promocion>
+                <descuento>0.1</descuento>
+                <fecha_de_inicio>2024-01-01</fecha_de_inicio>
+                <fecha_de_termino>2024-01-30</fecha_de_termino>
+            </promocion>
+            <Motores>
+                <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+            </Motores>
+        </Refaccion>
+    <!-- Terminamos de escribir las refacciones-->
+    </Refacciones>
+
+    <Motores>
+        <!-- Motores -->
+        <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"> <!-- Motor -->
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>1.0</numeroLitros>
+            <numeroValvulas>12</numeroValvulas>
+            <tipoArbol>SOHC</tipoArbol>
+            <infoAdicional>(999cc) Hyundai G4HC</infoAdicional>
+            <rangoModelos>2000-2004</rangoModelos>
+            <Refacciones> <!-- Refacciones que tiene el motor -->
+                <Refaccion IDRefaccion="PISTON-STD-973-M"/>
+                <Refaccion IDRefaccion="PISTON-020-973-M"/>
+                <Refaccion IDRefaccion="PISTON-030-973-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP5136C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5136C-M"/>
+                <Refaccion IDRefaccion="PERNO-5165-M"/>
+                <Refaccion IDRefaccion="VALVULA-S-7946-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7947X-M"/>
+                <Refaccion IDRefaccion="BALANCIN-E-B220H-M"/>
+                <Refaccion IDRefaccion="BALANCIN-A-B219H-M"/>
+            </Refacciones>
+            <Automoviles> <!-- Automoviles que tienen el motor -->
+                <Automovil IDAuto="ATOS-1.0L-2000"/>
+                <Automovil IDAuto="ATOS-1.0L-2001"/>
+                <Automovil IDAuto="ATOS-1.0L-2002"/>
+                <Automovil IDAuto="ATOS-1.0L-2003"/>
+                <Automovil IDAuto="ATOS-1.0L-2004"/>
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-Epsilon">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>1.1</numeroLitros>
+            <numeroValvulas>12</numeroValvulas>
+            <tipoArbol>SOHC</tipoArbol>
+            <infoAdicional>(1086cc) Hyundai Epsilon</infoAdicional>
+            <rangoModelos>2011-2014</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="PISTON-STD-1136-M"/>
+                <Refaccion IDRefaccion="PISTON-020-1136-M"/>
+                <Refaccion IDRefaccion="PISTON-030-1136-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5298C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP5298C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5298C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5298F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP5298F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5298F-M"/>
+                <Refaccion IDRefaccion="PERNO-5165-M"/>
+                <Refaccion IDRefaccion="VALVULA-S-7178-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7177-M"/>
+                <Refaccion IDRefaccion="BALANCIN-E-B217H-M"/>
+                <Refaccion IDRefaccion="BALANCIN-A-B226H-M"/>
+            </Refacciones>
+            <Automoviles>
+                <Automovil IDAuto="I-10-1.1L-2011"/>
+                <Automovil IDAuto="I-10-1.1L-2012"/>
+                <Automovil IDAuto="I-10-1.1L-2013"/>
+                <Automovil IDAuto="I-10-1.1L-2014"/>   
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Hyundai-G4HG">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>1.1</numeroLitros>
+            <numeroValvulas>12</numeroValvulas>
+            <tipoArbol>SOHC</tipoArbol>
+            <infoAdicional>(1086cc) Hyundai G4HG</infoAdicional>
+            <rangoModelos>2005-2012</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="PISTON-STD-1008-M"/>
+                <Refaccion IDRefaccion="PISTON-020-1008-M"/>
+                <Refaccion IDRefaccion="PISTON-030-1008-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5298C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP5298C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5298C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5298F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP5298F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5298F-M"/>
+                <Refaccion IDRefaccion="PERNO-5165-M"/>
+                <Refaccion IDRefaccion="VALVULA-S-7008-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7007-M"/>
+                <Refaccion IDRefaccion="BALANCIN-E-B217H-M"/>
+                <Refaccion IDRefaccion="BALANCIN-A-B226H-M"/>
+            </Refacciones>
+            <Automoviles>
+                <Automovil IDAuto="ATOS-1.1L-2005"/>
+                <Automovil IDAuto="ATOS-1.1L-2006"/>
+                <Automovil IDAuto="ATOS-1.1L-2007"/>
+                <Automovil IDAuto="ATOS-1.1L-2008"/>
+                <Automovil IDAuto="ATOS-1.1L-2009"/>
+                <Automovil IDAuto="ATOS-1.1L-2010"/>
+                <Automovil IDAuto="ATOS-1.1L-2011"/>
+                <Automovil IDAuto="ATOS-1.1L-2012"/>       
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>1.3</numeroLitros>
+            <numeroValvulas>8</numeroValvulas>
+            <tipoArbol>OHV</tipoArbol>
+            <infoAdicional>(1299cc) HCS Endura</infoAdicional>
+            <rangoModelos>1998-2002</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="PISTON-STD-942-M"/>
+                <Refaccion IDRefaccion="PISTON-020-942-M"/>
+                <Refaccion IDRefaccion="PISTON-030-942-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP4858C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP4858C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP4858C-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP4858F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP4858F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP4858F-M"/>
+                <Refaccion IDRefaccion="PERNO-5234-M"/>
+                <Refaccion IDRefaccion="VALVULA-S-9864-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-9863-M"/>
+                <Refaccion IDRefaccion="PUNTERIA-H379-M"/>
+            </Refacciones>
+            <Automoviles>
+                <Automovil IDAuto="FIESTA-1.3L-1998"/>
+                <Automovil IDAuto="FIESTA-1.3L-1999"/>
+                <Automovil IDAuto="FIESTA-1.3L-2000"/> 
+                <Automovil IDAuto="FIESTA-1.3L-2001"/> 
+                <Automovil IDAuto="FIESTA-1.3L-2002"/>  
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>1.5</numeroLitros>
+            <numeroValvulas>12</numeroValvulas>
+            <tipoArbol>SOHC</tipoArbol>
+            <infoAdicional>(1468cc) Hyundai G4EB</infoAdicional>
+            <rangoModelos>2003-2006</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="PISTON-STD-1006-M"/>
+                <Refaccion IDRefaccion="PISTON-020-1006-M"/>
+                <Refaccion IDRefaccion="PISTON-030-1006-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP4782F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP4782F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP4782F-M"/>
+                <Refaccion IDRefaccion="PERNO-5172-M"/>
+                <Refaccion IDRefaccion="VALVULA-S-7002-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7001-M"/>
+                <Refaccion IDRefaccion="PUNTERIA-H379-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="ACCENT-1.5L-2003"/>  
+                <Automovil IDAuto="ACCENT-1.5L-2004"/>
+                <Automovil IDAuto="ACCENT-1.5L-2005"/> 
+                <Automovil IDAuto="VERNA-1.5L-2003"/>
+                <Automovil IDAuto="VERNA-1.5L-2004"/>
+                <Automovil IDAuto="VERNA-1.5L-2005"/>   
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>2.0</numeroLitros>
+            <numeroValvulas>8</numeroValvulas>
+            <tipoArbol>SOHC</tipoArbol>
+            <infoAdicional>(1998cc) FE, FEH1</infoAdicional>
+            <rangoModelos>1984-1987</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5664F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP5664F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5664F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5664N-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP5664N-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5664N-M"/>
+                <Refaccion IDRefaccion="VALVULA-S-9940-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-9939-M"/>
+                <Refaccion IDRefaccion="PUNTERIA-H379-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="626-2.0L-1984"/>
+                <Automovil IDAuto="626-2.0L-1985"/>
+                <Automovil IDAuto="626-2.0L-1986"/>
+                <Automovil IDAuto="626-2.0L-1987"/>
+                <Automovil IDAuto="B2000-2.0L-1986"/>
+                <Automovil IDAuto="B2000-2.0L-1987"/>                
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>2.2</numeroLitros>
+            <numeroValvulas>8</numeroValvulas>
+            <tipoArbol>SOHC</tipoArbol>
+            <infoAdicional>(2184cc) F2</infoAdicional>
+            <rangoModelos>1987-1992</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5664F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP5664F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5664F-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5664N-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP5664N-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5664N-M"/>
+                <Refaccion IDRefaccion="VALVULA-S-9940-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-9939-M"/>
+                <Refaccion IDRefaccion="PUNTERIA-H379-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="626-2.2L-1986"/>      
+                <Automovil IDAuto="626-2.2L-1987"/> 
+                <Automovil IDAuto="626-2.2L-1988"/>
+                <Automovil IDAuto="626-2.2L-1989"/>
+                <Automovil IDAuto="626-2.2L-1990"/>
+                <Automovil IDAuto="626-2.2L-1991"/>
+                <Automovil IDAuto="626-2.2L-1992"/>   
+                <Automovil IDAuto="B2200-2.2L-1986"/> 
+                <Automovil IDAuto="B2200-2.2L-1987"/>
+                <Automovil IDAuto="B2200-2.2L-1988"/>
+                <Automovil IDAuto="B2200-2.2L-1989"/>
+                <Automovil IDAuto="B2200-2.2L-1990"/>
+                <Automovil IDAuto="B2200-2.2L-1991"/>
+                <Automovil IDAuto="B2200-2.2L-1992"/>                                        
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>2.2</numeroLitros>
+            <numeroValvulas>12</numeroValvulas>
+            <tipoArbol>SOHC</tipoArbol>
+            <infoAdicional>(2184cc) F2 TURBO</infoAdicional>
+            <rangoModelos>1988-1992</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-S-9942-M"/>
+                <Refaccion IDRefaccion="VALVULA-S-9944-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-9941-M"/>
+                <Refaccion IDRefaccion="PUNTERIA-H379-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="626-Turbo-2.2L-1988"/>     
+                <Automovil IDAuto="626-Turbo-2.2L-1989"/>
+                <Automovil IDAuto="626-Turbo-2.2L-1990"/>
+                <Automovil IDAuto="626-Turbo-2.2L-1991"/>
+                <Automovil IDAuto="MX6-2.2L-1988"/>   
+                <Automovil IDAuto="MX6-2.2L-1989"/>
+                <Automovil IDAuto="MX6-2.2L-1990"/>
+                <Automovil IDAuto="MX6-2.2L-1991"/>
+                <Automovil IDAuto="MX6-2.2L-1992"/>
+                <Automovil IDAuto="FORD-PROBE-2.2L-1989"/>   
+                <Automovil IDAuto="FORD-PROBE-2.2L-1990"/>
+                <Automovil IDAuto="FORD-PROBE-2.2L-1991"/>
+                <Automovil IDAuto="FORD-PROBE-2.2L-1992"/>                                                          
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="MAZDA-L4-12V-2.6L-SOHC-G6-G60">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>2.6</numeroLitros>
+            <numeroValvulas>12</numeroValvulas>
+            <tipoArbol>SOHC</tipoArbol>
+            <infoAdicional>(2606cc) F2 TURBO</infoAdicional>
+            <rangoModelos>1989-1994</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-S-9998-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-9997-M"/>
+                <Refaccion IDRefaccion="PUNTERIA-H379-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="B2600-2.6L-1989"/>     
+                <Automovil IDAuto="B2600-2.6L-1990"/>  
+                <Automovil IDAuto="B2600-2.6L-1991"/>
+                <Automovil IDAuto="B2600-2.6L-1992"/>
+                <Automovil IDAuto="B2600-2.6L-1993"/>
+                <Automovil IDAuto="MPV-2.6L-1989"/>
+                <Automovil IDAuto="MPV-2.6L-1990"/>  
+                <Automovil IDAuto="MPV-2.6L-1991"/>
+                <Automovil IDAuto="MPV-2.6L-1992"/>
+                <Automovil IDAuto="MPV-2.6L-1993"/>
+                <Automovil IDAuto="MPV-2.6L-1994"/>                                                           
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>3</numeroPistones>
+            <numeroLitros>1.2</numeroLitros>
+            <numeroValvulas>12</numeroValvulas>
+            <tipoArbol>DOHC</tipoArbol>
+            <infoAdicional>(1193cc) 3A92, MIVEC</infoAdicional>
+            <rangoModelos>2015-2019</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="PISTON-STD-1206-M"/>
+                <Refaccion IDRefaccion="PISTON-020-1206-M"/>
+                <Refaccion IDRefaccion="PISTON-030-1206-M"/>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP502N-M"/>
+                <Refaccion IDRefaccion="ANILLOS-020-MAP502N-M"/>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP502N-M"/>
+                <Refaccion IDRefaccion="PERNO-5172-M"/>
+                <Refaccion IDRefaccion="VALVULA-S-7260-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7259-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="MIRAGE-1.2L-2015"/>     
+                <Automovil IDAuto="MIRAGE-1.2L-2016"/>
+                <Automovil IDAuto="MIRAGE-1.2L-2017"/>
+                <Automovil IDAuto="MIRAGE-1.2L-2018"/>
+                <Automovil IDAuto="MIRAGE-1.2L-2019"/>                                                                   
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.5L-DOHC-MFI-VVT-L2B">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>1.5</numeroLitros>
+            <numeroValvulas>16</numeroValvulas>
+            <tipoArbol>DOHC</tipoArbol>
+            <infoAdicional>(1485cc) MFI, VVT L2B</infoAdicional>
+            <rangoModelos>2018-2020</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-S-7314-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7313-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="AVEO-1.5L-2018"/>
+                <Automovil IDAuto="AVEO-1.5L-2019"/>
+                <Automovil IDAuto="AVEO-1.5L-2020"/>
+                <Automovil IDAuto="CAVALIER-1.5L-2018"/> 
+                <Automovil IDAuto="CAVALIER-1.5L-2019"/>
+                <Automovil IDAuto="CAVALIER-1.5L-2020"/>                                                                        
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>1.2</numeroLitros>
+            <numeroValvulas>16</numeroValvulas>
+            <tipoArbol>DOHC</tipoArbol>
+            <infoAdicional>(1206cc) LMU</infoAdicional>
+            <rangoModelos>2016-2020</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-S-7204-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7203-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="SPARK-1.2L-2016"/>
+                <Automovil IDAuto="SPARK-1.2L-2017"/>
+                <Automovil IDAuto="SPARK-1.2L-2018"/>
+                <Automovil IDAuto="SPARK-1.2L-2019"/>
+                <Automovil IDAuto="SPARK-1.2L-2020"/> 
+                <Automovil IDAuto="BEAT-1.2L-2018"/>
+                <Automovil IDAuto="BEAT-1.2L-2019"/>
+                <Automovil IDAuto="BEAT-1.2L-2020"/>                                   
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.4L-DOHC-LV7-Ecotec">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>1.4</numeroLitros>
+            <numeroValvulas>16</numeroValvulas>
+            <tipoArbol>DOHC</tipoArbol>
+            <infoAdicional>(1391cc) LV7 Ecotec</infoAdicional>
+            <rangoModelos>2016-2019</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-S-7298-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7297-M"/>
+                <Refaccion IDRefaccion="PUNTERIA-H425-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="SPARK-1.4L-2016"/>
+                <Automovil IDAuto="SPARK-1.4L-2017"/>
+                <Automovil IDAuto="SPARK-1.4L-2018"/>
+                <Automovil IDAuto="SPARK-1.4L-2019"/>                                 
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="GENERAL-MOTORS-V6-24V-3.6L-DOHC-FLEX-ID">
+            <posicionPistones>V</posicionPistones>
+            <numeroPistones>6</numeroPistones>
+            <numeroLitros>3.6</numeroLitros>
+            <numeroValvulas>24</numeroValvulas>
+            <tipoArbol>DOHC</tipoArbol>
+            <infoAdicional>(217) FLEX, Inyección Directa</infoAdicional>
+            <rangoModelos>2016-2019</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="BALANCIN-E-B243H-M"/>
+                <Refaccion IDRefaccion="BALANCIN-A-B243H-M"/>
+                <Refaccion IDRefaccion="PUNTERIA-H425-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="CAMARO-3.6L-2016"/>
+                <Automovil IDAuto="CAMARO-3.6L-2017"/>
+                <Automovil IDAuto="CAMARO-3.6L-2018"/>
+                <Automovil IDAuto="CAMARO-3.6L-2019"/>                                 
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="FORD-L6-12V-4.9L-OHV-USA-VIN-Y">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>6</numeroPistones>
+            <numeroLitros>4.9</numeroLitros>
+            <numeroValvulas>12</numeroValvulas>
+            <tipoArbol>OHV</tipoArbol>
+            <infoAdicional>(300) USA VIN Y</infoAdicional>
+            <rangoModelos>1987-1996</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-S-9724-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-9723-M"/>
+                <Refaccion IDRefaccion="PUNTERIA-H307-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="BRONCO-4.9L-1987"/>                               
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="FORD-L4-16V-2.0L-DOHC-VIN-9-ECOBOOST-TURBOCARGADO">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>2.0</numeroLitros>
+            <numeroValvulas>16</numeroValvulas>
+            <tipoArbol>DOHC</tipoArbol>
+            <infoAdicional>(1999cc) VIN 9, EcoBoost, turbocargado</infoAdicional>
+            <rangoModelos>2012-2018</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-S-7316-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7315-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="FOCUS-2.0L-2013"/>   
+                <Automovil IDAuto="FOCUS-2.0L-2014"/>  
+                <Automovil IDAuto="FOCUS-2.0L-2015"/>  
+                <Automovil IDAuto="FOCUS-2.0L-2016"/>  
+                <Automovil IDAuto="FOCUS-2.0L-2017"/>  
+                <Automovil IDAuto="FOCUS-2.0L-2018"/>                              
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="FORD-L4-16V-1.4L-DOHC-ZETEC-ZH14-90HP">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>1.4</numeroLitros>
+            <numeroValvulas>16</numeroValvulas>
+            <tipoArbol>DOHC</tipoArbol>
+            <infoAdicional>(1388cc) ZETEC, ZH14 (90 H.P.)</infoAdicional>
+            <rangoModelos>1998-2000</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-S-9866-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-9865-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="FIESTA-1.4L-1998"/>        
+                <Automovil IDAuto="FIESTA-1.4L-1999"/>
+                <Automovil IDAuto="FIESTA-1.4L-2000"/>                                    
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="FORD-L4-8V-2.0L-SOHC-VIN-C-A">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>2.0</numeroLitros>
+            <numeroValvulas>8</numeroValvulas>
+            <tipoArbol>SOHC</tipoArbol>
+            <infoAdicional>(122) VIN C, A</infoAdicional>
+            <rangoModelos>1983-1988</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="PUNTERIA-H338-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="RANGER-2.0L-1983"/>        
+                <Automovil IDAuto="RANGER-2.0L-1984"/>
+                <Automovil IDAuto="RANGER-2.0L-1985"/>    
+                <Automovil IDAuto="RANGER-2.0L-1986"/> 
+                <Automovil IDAuto="RANGER-2.0L-1987"/> 
+                <Automovil IDAuto="RANGER-2.0L-1988"/>                                 
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="FORD-L4-16V-2.3L-DOHC-ECOBOOST-TURBOCARGADO">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>4</numeroPistones>
+            <numeroLitros>2.3</numeroLitros>
+            <numeroValvulas>16</numeroValvulas>
+            <tipoArbol>DOHC</tipoArbol>
+            <infoAdicional>(2300cc) EcoBoost, turbocargado</infoAdicional>
+            <rangoModelos>2015-2019</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-V-7315-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="FOCUS-RS-2.3L-2016"/>       
+                <Automovil IDAuto="FOCUS-RS-2.3L-2017"/>
+                <Automovil IDAuto="FOCUS-RS-2.3L-2018"/>                                 
+            </Automoviles>
+        </Motor>
+        <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO">
+            <posicionPistones>L</posicionPistones>
+            <numeroPistones>5</numeroPistones>
+            <numeroLitros>2.5</numeroLitros>
+            <numeroValvulas>20</numeroValvulas>
+            <tipoArbol>DOHC</tipoArbol>
+            <infoAdicional>(2522cc) VCT, Duratec V15 Turbo</infoAdicional>
+            <rangoModelos>2007-2015</rangoModelos>
+            <Refacciones>
+                <Refaccion IDRefaccion="VALVULA-S-7286-M"/>
+                <Refaccion IDRefaccion="VALVULA-V-7285-M"/>
+            </Refacciones>
+            <Automoviles> 
+                <Automovil IDAuto="FOCUS-ST-2.5L-2007"/>       
+                <Automovil IDAuto="FOCUS-ST-2.5L-2008"/>
+                <Automovil IDAuto="FOCUS-ST-2.5L-2009"/>
+                <Automovil IDAuto="FOCUS-ST-2.5L-2010"/>
+                <Automovil IDAuto="FOCUS-ST-2.5L-2011"/>
+                <Automovil IDAuto="FOCUS-ST-2.5L-2012"/>
+                <Automovil IDAuto="FOCUS-ST-2.5L-2013"/>
+                <Automovil IDAuto="FOCUS-ST-2.5L-2014"/>
+                <Automovil IDAuto="FOCUS-ST-2.5L-2015"/>                
+            </Automoviles>
+        </Motor>
+        <!-- Terminamos de escribir motores -->
+    </Motores>
+
+    <Automoviles>
+        <!-- Automoviles -->
+        <Automovil IDAuto="ATOS-1.0L-2000">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2000</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.0L-2001">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2001</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.0L-2002">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2002</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.0L-2003">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2003</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.0L-2004">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2004</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.1L-2005">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2005</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.1L-2006">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2006</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.1L-2007">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2007</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.1L-2008">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2008</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.1L-2009">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2009</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.1L-2010">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2010</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.1L-2011">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2011</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="ATOS-1.1L-2012">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2012</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+        <Automovil IDAuto="I-10-1.1L-2011">
+            <Marca>Hyundai</Marca>
+            <Submarca>I-10</Submarca>
+            <Modelo>2011</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Epsilon"/>
+        </Automovil>
+        <Automovil IDAuto="I-10-1.1L-2012">
+            <Marca>Hyundai</Marca>
+            <Submarca>I-10</Submarca>
+            <Modelo>2012</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Epsilon"/>
+        </Automovil>
+        <Automovil IDAuto="I-10-1.1L-2013">
+            <Marca>Hyundai</Marca>
+            <Submarca>I-10</Submarca>
+            <Modelo>2013</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Epsilon"/>
+        </Automovil>
+        <Automovil IDAuto="I-10-1.1L-2014">
+            <Marca>Hyundai</Marca>
+            <Submarca>I-10</Submarca>
+            <Modelo>2014</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.1L-SOHC-Epsilon"/>
+        </Automovil>
+        <Automovil IDAuto="FIESTA-1.3L-1998">
+            <Marca>FORD</Marca>
+            <Submarca>FIESTA</Submarca>
+            <Modelo>1998</Modelo>
+            <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+        </Automovil>
+        <Automovil IDAuto="FIESTA-1.3L-1999">
+            <Marca>FORD</Marca>
+            <Submarca>FIESTA</Submarca>
+            <Modelo>1999</Modelo>
+            <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+        </Automovil>
+        <Automovil IDAuto="FIESTA-1.3L-2000">
+            <Marca>FORD</Marca>
+            <Submarca>FIESTA</Submarca>
+            <Modelo>2000</Modelo>
+            <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+        </Automovil> 
+        <Automovil IDAuto="FIESTA-1.3L-2001">
+            <Marca>FORD</Marca>
+            <Submarca>FIESTA</Submarca>
+            <Modelo>2001</Modelo>
+            <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+        </Automovil> 
+        <Automovil IDAuto="FIESTA-1.3L-2002">
+            <Marca>FORD</Marca>
+            <Submarca>FIESTA</Submarca>
+            <Modelo>2002</Modelo>
+            <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+        </Automovil>
+        <Automovil IDAuto="ACCENT-1.5L-2003">
+            <Marca>CHRYSLEY</Marca>
+            <Submarca>ACCENT</Submarca>
+            <Modelo>2003</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+        </Automovil>
+        <Automovil IDAuto="ACCENT-1.5L-2004">
+            <Marca>CHRYSLEY</Marca>
+            <Submarca>ACCENT</Submarca>
+            <Modelo>2004</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+        </Automovil>
+        <Automovil IDAuto="ACCENT-1.5L-2005">
+            <Marca>CHRYSLEY</Marca>
+            <Submarca>ACCENT</Submarca>
+            <Modelo>2005</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+        </Automovil>
+        <Automovil IDAuto="VERNA-1.5L-2003">
+            <Marca>CHRYSLEY</Marca>
+            <Submarca>VERNA</Submarca>
+            <Modelo>2003</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+        </Automovil>
+        <Automovil IDAuto="VERNA-1.5L-2004">
+            <Marca>CHRYSLEY</Marca>
+            <Submarca>VERNA</Submarca>
+            <Modelo>2004</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+        </Automovil>
+        <Automovil IDAuto="VERNA-1.5L-2005">
+            <Marca>CHRYSLEY</Marca>
+            <Submarca>VERNA</Submarca>
+            <Modelo>2005</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.5L-SOHC-Hyundai-G4EB"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.0L-1984">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1984</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.0L-1985">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1985</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.0L-1986">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1986</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.0L-1987">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1987</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+        </Automovil>
+        <Automovil IDAuto="B2000-2.0L-1986">
+            <Marca>MAZDA</Marca>
+            <Submarca>B2000</Submarca>
+            <Modelo>1986</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+        </Automovil>
+        <Automovil IDAuto="B2000-2.0L-1987">
+            <Marca>MAZDA</Marca>
+            <Submarca>B2000</Submarca>
+            <Modelo>1987</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.0L-SOHC-FE-FEH1"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.2L-1986">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1986</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.2L-1987">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1987</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.2L-1988">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1988</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.2L-1989">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1989</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.2L-1990">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1990</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.2L-1991">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1991</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="626-2.2L-1992">
+            <Marca>MAZDA</Marca>
+            <Submarca>626</Submarca>
+            <Modelo>1992</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="B2200-2.2L-1986">
+            <Marca>MAZDA</Marca>
+            <Submarca>B2200</Submarca>
+            <Modelo>1986</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="B2200-2.2L-1987">
+            <Marca>MAZDA</Marca>
+            <Submarca>B2200</Submarca>
+            <Modelo>1987</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="B2200-2.2L-1988">
+            <Marca>MAZDA</Marca>
+            <Submarca>B2200</Submarca>
+            <Modelo>1988</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="B2200-2.2L-1989">
+            <Marca>MAZDA</Marca>
+            <Submarca>B2200</Submarca>
+            <Modelo>1989</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="B2200-2.2L-1990">
+            <Marca>MAZDA</Marca>
+            <Submarca>B2200</Submarca>
+            <Modelo>1990</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="B2200-2.2L-1991">
+            <Marca>MAZDA</Marca>
+            <Submarca>B2200</Submarca>
+            <Modelo>1991</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="B2200-2.2L-1992">
+            <Marca>MAZDA</Marca>
+            <Submarca>B2200</Submarca>
+            <Modelo>1992</Modelo>
+            <Motor IDMotor="MAZDA-L4-8V-2.2L-SOHC-F2"/>
+        </Automovil>
+        <Automovil IDAuto="626-Turbo-2.2L-1988">
+            <Marca>MAZDA</Marca>
+            <Submarca>626 Turbo</Submarca>
+            <Modelo>1988</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>     
+        <Automovil IDAuto="626-Turbo-2.2L-1989">
+            <Marca>MAZDA</Marca>
+            <Submarca>626 Turbo</Submarca>
+            <Modelo>1989</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="626-Turbo-2.2L-1990">
+            <Marca>MAZDA</Marca>
+            <Submarca>626 Turbo</Submarca>
+            <Modelo>1990</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="626-Turbo-2.2L-1991">
+            <Marca>MAZDA</Marca>
+            <Submarca>626 Turbo</Submarca>
+            <Modelo>1988</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="MX6-2.2L-1988">
+            <Marca>MAZDA</Marca>
+            <Submarca>MX6</Submarca>
+            <Modelo>1988</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>   
+        <Automovil IDAuto="MX6-2.2L-1989">
+            <Marca>MAZDA</Marca>
+            <Submarca>MX6</Submarca>
+            <Modelo>1989</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="MX6-2.2L-1990">
+            <Marca>MAZDA</Marca>
+            <Submarca>MX6</Submarca>
+            <Modelo>1990</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="MX6-2.2L-1991">
+            <Marca>MAZDA</Marca>
+            <Submarca>MX6</Submarca>
+            <Modelo>1991</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="MX6-2.2L-1992">
+            <Marca>MAZDA</Marca>
+            <Submarca>MX6</Submarca>
+            <Modelo>1992</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="FORD-PROBE-2.2L-1989">
+            <Marca>FORD</Marca>
+            <Submarca>PROBE</Submarca>
+            <Modelo>1989</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>   
+        <Automovil IDAuto="FORD-PROBE-2.2L-1990">
+            <Marca>FORD</Marca>
+            <Submarca>PROBE</Submarca>
+            <Modelo>1990</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="FORD-PROBE-2.2L-1991">
+            <Marca>FORD</Marca>
+            <Submarca>PROBE</Submarca>
+            <Modelo>1991</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="FORD-PROBE-2.2L-1992">
+            <Marca>FORD</Marca>
+            <Submarca>PROBE</Submarca>
+            <Modelo>1992</Modelo>
+            <Motor IDMotor="MAZDA-L4-12V-2.2L-SOHC-F2-TURBO"/>
+        </Automovil>
+        <Automovil IDAuto="MIRAGE-1.2L-2015">
+            <Marca>MITSUBISHI</Marca>
+            <Submarca>MIRAGE</Submarca>
+            <Modelo>2015</Modelo>
+            <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+        </Automovil>
+        <Automovil IDAuto="MIRAGE-1.2L-2016">
+            <Marca>MITSUBISHI</Marca>
+            <Submarca>MIRAGE</Submarca>
+            <Modelo>2016</Modelo>
+            <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+        </Automovil>
+        <Automovil IDAuto="MIRAGE-1.2L-2017">
+            <Marca>MITSUBISHI</Marca>
+            <Submarca>MIRAGE</Submarca>
+            <Modelo>2017</Modelo>
+            <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+        </Automovil>
+        <Automovil IDAuto="MIRAGE-1.2L-2018">
+            <Marca>MITSUBISHI</Marca>
+            <Submarca>MIRAGE</Submarca>
+            <Modelo>2018</Modelo>
+            <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+        </Automovil>
+        <Automovil IDAuto="MIRAGE-1.2L-2019">
+            <Marca>MITSUBISHI</Marca>
+            <Submarca>MIRAGE</Submarca>
+            <Modelo>2019</Modelo>
+            <Motor IDMotor="MITSUBISHI-L3-12V-1.2L-DOHC-3A92-MIVEC"/>
+        </Automovil>
+        <Automovil IDAuto="AVEO-1.5L-2018">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>AVEO</Submarca>
+            <Modelo>2018</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.5L-DOHC-MFI-VVT-L2B"/>
+        </Automovil>
+        <Automovil IDAuto="AVEO-1.5L-2019">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>AVEO</Submarca>
+            <Modelo>2019</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.5L-DOHC-MFI-VVT-L2B"/>
+        </Automovil>
+        <Automovil IDAuto="AVEO-1.5L-2020">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>AVEO</Submarca>
+            <Modelo>2020</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.5L-DOHC-MFI-VVT-L2B"/>
+        </Automovil>
+        <Automovil IDAuto="CAVALIER-1.5L-2018">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>CAVALIER</Submarca>
+            <Modelo>2018</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.5L-DOHC-MFI-VVT-L2B"/>
+        </Automovil>
+        <Automovil IDAuto="CAVALIER-1.5L-2019">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>CAVALIER</Submarca>
+            <Modelo>2019</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.5L-DOHC-MFI-VVT-L2B"/>
+        </Automovil>
+        <Automovil IDAuto="CAVALIER-1.5L-2020">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>CAVALIER</Submarca>
+            <Modelo>2020</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.5L-DOHC-MFI-VVT-L2B"/>
+        </Automovil>
+        <Automovil IDAuto="SPARK-1.2L-2016">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>SPARK</Submarca>
+            <Modelo>2016</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+        </Automovil>
+        <Automovil IDAuto="SPARK-1.2L-2017">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>SPARK</Submarca>
+            <Modelo>2017</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+        </Automovil>
+        <Automovil IDAuto="SPARK-1.2L-2018">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>SPARK</Submarca>
+            <Modelo>2018</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+        </Automovil>
+        <Automovil IDAuto="SPARK-1.2L-2019">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>SPARK</Submarca>
+            <Modelo>2019</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+        </Automovil>
+        <Automovil IDAuto="SPARK-1.2L-2020">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>SPARK</Submarca>
+            <Modelo>2020</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+        </Automovil>
+        <Automovil IDAuto="BEAT-1.2L-2018">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>BEAT</Submarca>
+            <Modelo>2018</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+        </Automovil>
+        <Automovil IDAuto="BEAT-1.2L-2019">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>BEAT</Submarca>
+            <Modelo>2019</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+        </Automovil>
+        <Automovil IDAuto="BEAT-1.2L-2020"> 
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>BEAT</Submarca>
+            <Modelo>2020</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.2L-DOHC-LMU"/>
+        </Automovil>
+        <Automovil IDAuto="SPARK-1.4L-2016">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>SPARK</Submarca>
+            <Modelo>2016</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.4L-DOHC-LV7-Ecotec"/>
+        </Automovil>
+        <Automovil IDAuto="SPARK-1.4L-2017">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>SPARK</Submarca>
+            <Modelo>2017</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.4L-DOHC-LV7-Ecotec"/>
+        </Automovil>
+        <Automovil IDAuto="SPARK-1.4L-2018">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>SPARK</Submarca>
+            <Modelo>2018</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.4L-DOHC-LV7-Ecotec"/>
+        </Automovil>
+        <Automovil IDAuto="SPARK-1.4L-2019">
+            <Marca>GENERAL MOTORS</Marca>
+            <Submarca>SPARK</Submarca>
+            <Modelo>2019</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-L4-16V-1.4L-DOHC-LV7-Ecotec"/>
+        </Automovil>
+        <Automovil IDAuto="CAMARO-3.6L-2016">
+            <Marca>CHEVROLET</Marca>
+            <Submarca>CAMARO</Submarca>
+            <Modelo>2016</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-V6-24V-3.6L-DOHC-FLEX-ID"/>
+        </Automovil>
+        <Automovil IDAuto="CAMARO-3.6L-2017">
+            <Marca>CHEVROLET</Marca>
+            <Submarca>CAMARO</Submarca>
+            <Modelo>2017</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-V6-24V-3.6L-DOHC-FLEX-ID"/>
+        </Automovil>
+        <Automovil IDAuto="CAMARO-3.6L-2018">
+            <Marca>CHEVROLET</Marca>
+            <Submarca>CAMARO</Submarca>
+            <Modelo>2018</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-V6-24V-3.6L-DOHC-FLEX-ID"/>
+        </Automovil>
+        <Automovil IDAuto="CAMARO-3.6L-2019">
+            <Marca>CHEVROLET</Marca>
+            <Submarca>CAMARO</Submarca>
+            <Modelo>2019</Modelo>
+            <Motor IDMotor="GENERAL-MOTORS-V6-24V-3.6L-DOHC-FLEX-ID"/>
+        </Automovil>
+        <Automovil IDAuto="BRONCO-4.9L-1987">
+            <Marca>FORD</Marca>
+            <Submarca>BRONCO</Submarca>
+            <Modelo>1987</Modelo>
+            <Motor IDMotor="FORD-L6-12V-4.9L-OHV-USA-VIN-Y"/>
+        </Automovil> 
+        <Automovil IDAuto="FOCUS-2.0L-2013">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS</Submarca>
+            <Modelo>2013</Modelo>
+            <Motor IDMotor="FORD-L4-16V-2.0L-DOHC-VIN-9-ECOBOOST-TURBOCARGADO"/>
+        </Automovil> 
+        <Automovil IDAuto="FOCUS-2.0L-2014">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS</Submarca>
+            <Modelo>2014</Modelo>
+            <Motor IDMotor="FORD-L4-16V-2.0L-DOHC-VIN-9-ECOBOOST-TURBOCARGADO"/>
+        </Automovil> 
+        <Automovil IDAuto="FOCUS-2.0L-2015">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS</Submarca>
+            <Modelo>2015</Modelo>
+            <Motor IDMotor="FORD-L4-16V-2.0L-DOHC-VIN-9-ECOBOOST-TURBOCARGADO"/>
+        </Automovil> 
+        <Automovil IDAuto="FOCUS-2.0L-2016">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS</Submarca>
+            <Modelo>2016</Modelo>
+            <Motor IDMotor="FORD-L4-16V-2.0L-DOHC-VIN-9-ECOBOOST-TURBOCARGADO"/>
+        </Automovil> 
+        <Automovil IDAuto="FOCUS-2.0L-2017">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS</Submarca>
+            <Modelo>2017</Modelo>
+            <Motor IDMotor="FORD-L4-16V-2.0L-DOHC-VIN-9-ECOBOOST-TURBOCARGADO"/>
+        </Automovil> 
+        <Automovil IDAuto="FOCUS-2.0L-2018">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS</Submarca>
+            <Modelo>2018</Modelo>
+            <Motor IDMotor="FORD-L4-16V-2.0L-DOHC-VIN-9-ECOBOOST-TURBOCARGADO"/>
+        </Automovil> 
+        <Automovil IDAuto="FIESTA-1.4L-1998">
+            <Marca>FORD</Marca>
+            <Submarca>FIESTA</Submarca>
+            <Modelo>1998</Modelo>
+            <Motor IDMotor="FORD-L4-16V-1.4L-DOHC-ZETEC-ZH14-90HP"/>
+        </Automovil>       
+        <Automovil IDAuto="FIESTA-1.4L-1999">
+            <Marca>FORD</Marca>
+            <Submarca>FIESTA</Submarca>
+            <Modelo>1999</Modelo>
+            <Motor IDMotor="FORD-L4-16V-1.4L-DOHC-ZETEC-ZH14-90HP"/>
+        </Automovil> 
+        <Automovil IDAuto="FIESTA-1.4L-2000"> 
+            <Marca>FORD</Marca>
+            <Submarca>FIESTA</Submarca>
+            <Modelo>2000</Modelo>
+            <Motor IDMotor="FORD-L4-16V-1.4L-DOHC-ZETEC-ZH14-90HP"/>
+        </Automovil>  
+        <Automovil IDAuto="RANGER-2.0L-1983">
+            <Marca>FORD</Marca>
+            <Submarca>RANGER</Submarca>
+            <Modelo>1983</Modelo>
+            <Motor IDMotor="FORD-L4-8V-2.0L-SOHC-VIN-C-A"/>
+        </Automovil>  
+        <Automovil IDAuto="RANGER-2.0L-1984">
+            <Marca>FORD</Marca>
+            <Submarca>RANGER</Submarca>
+            <Modelo>1984</Modelo>
+            <Motor IDMotor="FORD-L4-8V-2.0L-SOHC-VIN-C-A"/>
+        </Automovil>  
+        <Automovil IDAuto="RANGER-2.0L-1985">
+            <Marca>FORD</Marca>
+            <Submarca>RANGER</Submarca>
+            <Modelo>1985</Modelo>
+            <Motor IDMotor="FORD-L4-8V-2.0L-SOHC-VIN-C-A"/>
+        </Automovil>  
+        <Automovil IDAuto="RANGER-2.0L-1986">
+            <Marca>FORD</Marca>
+            <Submarca>RANGER</Submarca>
+            <Modelo>1986</Modelo>
+            <Motor IDMotor="FORD-L4-8V-2.0L-SOHC-VIN-C-A"/>
+        </Automovil>  
+        <Automovil IDAuto="RANGER-2.0L-1987">
+            <Marca>FORD</Marca>
+            <Submarca>RANGER</Submarca>
+            <Modelo>1987</Modelo>
+            <Motor IDMotor="FORD-L4-8V-2.0L-SOHC-VIN-C-A"/>
+        </Automovil>  
+        <Automovil IDAuto="RANGER-2.0L-1988">
+            <Marca>FORD</Marca>
+            <Submarca>RANGER</Submarca>
+            <Modelo>1988</Modelo>
+            <Motor IDMotor="FORD-L4-8V-2.0L-SOHC-VIN-C-A"/>
+        </Automovil>  
+        <Automovil IDAuto="FOCUS-RS-2.3L-2016">     
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS RS</Submarca>
+            <Modelo>2016</Modelo>
+            <Motor IDMotor="FORD-L4-16V-2.3L-DOHC-ECOBOOST-TURBOCARGADO"/>
+        </Automovil>   
+        <Automovil IDAuto="FOCUS-RS-2.3L-2017">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS RS</Submarca>
+            <Modelo>2017</Modelo>
+            <Motor IDMotor="FORD-L4-16V-2.3L-DOHC-ECOBOOST-TURBOCARGADO"/>
+        </Automovil> 
+        <Automovil IDAuto="FOCUS-RS-2.3L-2018">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS RS</Submarca>
+            <Modelo>2018</Modelo>
+            <Motor IDMotor="FORD-L4-16V-2.3L-DOHC-ECOBOOST-TURBOCARGADO"/>
+        </Automovil> 
+        <Automovil IDAuto="FOCUS-ST-2.5L-2007">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS ST</Submarca>
+            <Modelo>2007</Modelo>
+            <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+        </Automovil>       
+        <Automovil IDAuto="FOCUS-ST-2.5L-2008">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS ST</Submarca>
+            <Modelo>2008</Modelo>
+            <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+        </Automovil>  
+        <Automovil IDAuto="FOCUS-ST-2.5L-2009">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS ST</Submarca>
+            <Modelo>2009</Modelo>
+            <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+        </Automovil>  
+        <Automovil IDAuto="FOCUS-ST-2.5L-2010">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS ST</Submarca>
+            <Modelo>2010</Modelo>
+            <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+        </Automovil>  
+        <Automovil IDAuto="FOCUS-ST-2.5L-2011">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS ST</Submarca>
+            <Modelo>2011</Modelo>
+            <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+        </Automovil>  
+        <Automovil IDAuto="FOCUS-ST-2.5L-2012">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS ST</Submarca>
+            <Modelo>2012</Modelo>
+            <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+        </Automovil>  
+        <Automovil IDAuto="FOCUS-ST-2.5L-2013">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS ST</Submarca>
+            <Modelo>2013</Modelo>
+            <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+        </Automovil>  
+        <Automovil IDAuto="FOCUS-ST-2.5L-2014">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS ST</Submarca>
+            <Modelo>2014</Modelo>
+            <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+        </Automovil>  
+        <Automovil IDAuto="FOCUS-ST-2.5L-2015">
+            <Marca>FORD</Marca>
+            <Submarca>FOCUS ST</Submarca>
+            <Modelo>2015</Modelo>
+            <Motor IDMotor="FORD-L5-20V-2.5L-DOHC-VCT-DURATEC-V15-TURBO"/>
+        </Automovil>  
+           <!-- Terminamos de escribir automoviles-->
+    </Automoviles>
+
+    <Clientes>
+        <!-- Clientes -->
+        <Cliente IDCliente="C001" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>alejandrogonzalezflores@gmail.com</correo>
+                <contraseña>passC001</contraseña>
+                <nombre>Alejandro</nombre>
+                <apellidos>
+                    <paterno>González</paterno>
+                    <materno>Flores</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>DV7402V9HS007</rfc>
+                <curp>DV7402V9HS007095V3</curp>
+                <domicilio>Condominio 1, Sendero del Planeta 122, Villa Fantasía</domicilio>
+                <cp>40666</cp>
+                <telefono>5521983446</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4434-8777-8435-9604" fechaVencimiento="11/26" cvv="451"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC001"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C002" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>beatrizrodriguezbenitez@hotmail.com</correo>
+                <contraseña>passC002</contraseña>
+                <nombre>Beatriz</nombre>
+                <apellidos>
+                    <paterno>Rodríguez</paterno>
+                    <materno>Benítez</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>KS9816Y7XJ803</rfc>
+                <curp>KS9816Y7XJ803007Y0</curp>
+                <domicilio>Apartamento 2, Paseo del Cometa 174, Pueblo Soñado</domicilio>
+                <cp>92227</cp>
+                <telefono>5534728235</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4864-1671-1067-2709" fechaVencimiento="01/25" cvv="146"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC002"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C003" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>carlosperezcampos@gmail.com</correo>
+                <contraseña>passC003</contraseña>
+                <nombre>Carlos</nombre>
+                <apellidos>
+                   <paterno>Pérez</paterno>
+                   <materno>Campos</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>ZP1710D9YG836</rfc>
+                <curp>ZP1710D9YG836896Q8</curp>
+                <domicilio>Apartamento 3, Plaza de la Galaxia 153, Ciudad Futura</domicilio>
+                <cp>91909</cp>
+                <telefono>5562470753</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4900-7123-9936-2082" fechaVencimiento="09/26" cvv="938"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC003"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C004" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>dianasanchezvega@hotmail.com</correo>
+                <contraseña>passC004</contraseña>
+                <nombre>Diana</nombre>
+                <apellidos>
+                    <paterno>Sánchez</paterno>
+                    <materno>Vega</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>EO6941F2RJ558</rfc>
+                <curp>EO6941F2RJ558956T3</curp>
+                <domicilio>Condominio 4, Sendero del Planeta 147, Villa Fantasía</domicilio>
+                <cp>11382</cp>
+                <telefono>5572978809</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4567-9313-1017-8018" fechaVencimiento="02/23" cvv="232"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC004"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C005" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>eduardoramirezmolina@hotmail.com</correo>
+                <contraseña>passC005</contraseña>
+                <nombre>Eduardo</nombre>
+                <apellidos>
+                    <paterno>Ramírez</paterno>
+                    <materno>Molina</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>RU2611S4RY206</rfc>
+                <curp>RU2611S4RY206585G8</curp>
+                <domicilio>Condominio 5, Sendero del Planeta 165, Ciudadela Mágica</domicilio>
+                <cp>61185</cp>
+                <telefono>5591366374</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4889-8892-1759-8498" fechaVencimiento="05/23" cvv="913"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC005"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C006" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>fernandalopeznavarro@gmail.com</correo>
+                <contraseña>passC006</contraseña>
+                <nombre>Fernanda</nombre>
+                <apellidos>
+                    <paterno>López</paterno>
+                    <materno>Navarro</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>TQ7509B6AZ107</rfc>
+                <curp>TQ7509B6AZ107662S7</curp>
+                <domicilio>Apartamento 6, Avenida de la Luz 147, Ciudad Futura</domicilio>
+                <cp>34358</cp>
+                <telefono>5581362608</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4892-4058-1546-2845" fechaVencimiento="03/25" cvv="172"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC006"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C007" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>gabrielcruzreyes@outlook.com</correo>
+                <contraseña>passC007</contraseña>
+                <nombre>Gabriel</nombre>
+                <apellidos>
+                    <paterno>Cruz</paterno>
+                    <materno>Reyes</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>KQ6981R0BG948</rfc>
+                <curp>KQ6981R0BG948292K8</curp>
+                <domicilio>Edificio 7, Bulevar de las Estrellas 171, Villa Fantasía</domicilio>
+                <cp>26681</cp>
+                <telefono>5514741286</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4245-8812-1859-1677" fechaVencimiento="10/26" cvv="526"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC007"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C008" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>helenamartinezvazquez@hotmail.com</correo>
+                <contraseña>passC008</contraseña>
+                <nombre>Helena</nombre>
+                <apellidos>
+                    <paterno>Martínez</paterno>
+                    <materno>Vázquez</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>PU8033U6YQ511</rfc>
+                <curp>PU8033U6YQ511238I8</curp>
+                <domicilio>Apartamento 8, Alameda del Universo 47, Villa Fantasía</domicilio>
+                <cp>78528</cp>
+                <telefono>5540799558</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4847-3744-7579-5640" fechaVencimiento="08/29" cvv="548"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC008"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C009" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>ivandiazcastillo@outlook.com</correo>
+                <contraseña>passC009</contraseña>
+                <nombre>Iván</nombre>
+                <apellidos>
+                    <paterno>Díaz</paterno>
+                    <materno>Castillo</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>AB7772U4EI798</rfc>
+                <curp>AB7772U4EI798065K4</curp>
+                <domicilio>Villa 9, Vía Láctea 67, Ciudad Futura</domicilio>
+                <cp>45775</cp>
+                <telefono>5562318286</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4213-6118-2408-9853" fechaVencimiento="03/24" cvv="378"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC009"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C010" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>juliamorenomorales@gmail.com</correo>
+                <contraseña>passC010</contraseña>
+                <nombre>Julia</nombre>
+                <apellidos>
+                    <paterno>Moreno</paterno>
+                    <materno>Morales</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>XO1956E3EV269</rfc>
+                <curp>XO1956E3EV269839J9</curp>
+                <domicilio>Edificio 10, Sendero del Planeta 187, Pueblo Soñado</domicilio>
+                <cp>55227</cp>
+                <telefono>5582433103</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4780-1683-6668-9737" fechaVencimiento="06/24" cvv="988"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC010"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C011" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>kevinmuñozortega@hotmail.com</correo>
+                <contraseña>passC011</contraseña>
+                <nombre>Kevin</nombre>
+                <apellidos>
+                    <paterno>Muñoz</paterno>
+                    <materno>Ortega</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>BH2469T8JW287</rfc>
+                <curp>BH2469T8JW287882M6</curp>
+                <domicilio>Casa 11, Paseo del Cometa 100, Pueblo Soñado</domicilio>
+                <cp>66488</cp>
+                <telefono>5526840351</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4541-5105-9816-9264" fechaVencimiento="06/24" cvv="161"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC011"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C012" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>lorenaalvarezrojas@gmail.com</correo>
+                <contraseña>passC012</contraseña>
+                <nombre>Lorena</nombre>
+                <apellidos>
+                    <paterno>Álvarez</paterno>
+                    <materno>Rojas</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>EQ8638K7BR060</rfc>
+                <curp>EQ8638K7BR060364F8</curp>
+                <domicilio>Villa 12, Paseo del Cometa 3, Ciudad Futura</domicilio>
+                <cp>85100</cp>
+                <telefono>5575613982</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4028-6482-7037-5597" fechaVencimiento="11/24" cvv="777"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC012"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C013" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>miguelromeronuñez@outlook.com</correo>
+                <contraseña>passC013</contraseña>
+                <nombre>Miguel</nombre>
+                <apellidos>
+                    <paterno>Romero</paterno>
+                    <materno>Núñez</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>QA5814F1EK960</rfc>
+                <curp>QA5814F1EK960185F2</curp>
+                <domicilio>Casa 13, Bulevar de las Estrellas 124, Pueblo Soñado</domicilio>
+                <cp>95206</cp>
+                <telefono>5511241510</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4943-5148-6243-1408" fechaVencimiento="08/26" cvv="659"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC013"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C014" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>nataliaortizaguilar@hotmail.com</correo>
+                <contraseña>passC014</contraseña>
+                <nombre>Natalia</nombre>
+                <apellidos>
+                    <paterno>Ortiz</paterno>
+                    <materno>Aguilar</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>SP6936J3XR897</rfc>
+                <curp>SP6936J3XR897532S8</curp>
+                <domicilio>Condominio 14, Paseo del Cometa 124, Villa Fantasía</domicilio>
+                <cp>21290</cp>
+                <telefono>5518130312</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4629-5408-7802-8649" fechaVencimiento="04/27" cvv="998"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC014"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C015" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>oscargutierrezgallardo@hotmail.com</correo>
+                <contraseña>passC015</contraseña>
+                <nombre>Óscar</nombre>
+                <apellidos>
+                    <paterno>Gutiérrez</paterno>
+                    <materno>Gallardo</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>AA0027Z1UU305</rfc>
+                <curp>AA0027Z1UU305461F5</curp>
+                <domicilio>Villa 15, Alameda del Universo 158, Pueblo Soñado</domicilio>
+                <cp>79688</cp>
+                <telefono>5583824661</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4178-3820-7817-2708" fechaVencimiento="06/28" cvv="498"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC015"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C016" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>patriciajimenezdominguez@hotmail.com</correo>
+                <contraseña>passC016</contraseña>
+                <nombre>Patricia</nombre>
+                <apellidos>
+                    <paterno>Jiménez</paterno>
+                    <materno>Domínguez</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>YV7836R2SA742</rfc>
+                <curp>YV7836R2SA742504T1</curp>
+                <domicilio>Villa 16, Plaza de la Galaxia 141, Ciudadela Mágica</domicilio>
+                <cp>65211</cp>
+                <telefono>5529797261</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4287-3462-1150-3620" fechaVencimiento="04/27" cvv="341"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC016"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C017" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>robertoruizsoto@gmail.com</correo>
+                <contraseña>passC017</contraseña>
+                <nombre>Roberto</nombre>
+                <apellidos>
+                    <paterno>Ruiz</paterno>
+                    <materno>Soto</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>JO3778K4PL604</rfc>
+                <curp>JO3778K4PL604479O9</curp>
+                <domicilio>Apartamento 17, Plaza de la Galaxia 44, Pueblo Soñado</domicilio>
+                <cp>28476</cp>
+                <telefono>5570940744</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4217-2179-5834-4866" fechaVencimiento="07/28" cvv="346"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC017"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C018" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>sofiahernandezmendoza@gmail.com</correo>
+                <contraseña>passC018</contraseña>
+                <nombre>Sofía</nombre>
+                <apellidos>
+                    <paterno>Hernández</paterno>
+                    <materno>Mendoza</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>ZX6756Z2MY662</rfc>
+                <curp>ZX6756Z2MY662197E7</curp>
+                <domicilio>Villa 18, Paseo del Cometa 48, Metrópolis Imaginaria</domicilio>
+                <cp>11489</cp>
+                <telefono>5550867024</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4535-9489-4113-1177" fechaVencimiento="09/27" cvv="649"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC018"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C019" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>tomascastrocortes@gmail.com</correo>
+                <contraseña>passC019</contraseña>
+                <nombre>Tomás</nombre>
+                <apellidos>
+                    <paterno>Castro</paterno>
+                    <materno>Cortés</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>ZP7346T2BN087</rfc>
+                <curp>ZP7346T2BN087412Z2</curp>
+                <domicilio>Casa 19, Ruta Solar 84, Pueblo Soñado</domicilio>
+                <cp>36856</cp>
+                <telefono>5580152474</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4545-2683-8053-2924" fechaVencimiento="04/25" cvv="678"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC019"/>
+            </Carritos>
+        </Cliente>
+        <Cliente IDCliente="C020" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>ursulatorressantos@gmail.com</correo>
+                <contraseña>passC020</contraseña>
+                <nombre>Ursula</nombre>
+                <apellidos>
+                    <paterno>Torres</paterno>
+                    <materno>Santos</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>OZ1167D9HT596</rfc>
+                <curp>OZ1167D9HT596004V9</curp>
+                <domicilio>Edificio 20, Alameda del Universo 137, Villa Fantasía</domicilio>
+                <cp>69424</cp>
+                <telefono>5518197882</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4854-1868-3416-7185" fechaVencimiento="11/23" cvv="649"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC020"/>
+            </Carritos>
+        </Cliente>
+        <!-- Terminamos de escribir clientes -->
+    </Clientes>
+
+    <Carritos>
+        <!--
+            Comentarios para el carrito
+            - Los pistones se veneden en caja de 4 piezas el precio registrado es por pieza
+            - Las Valvulas se suelen vender en 8 piezas = 4 de escape y admisión, sin son 16 piezas = 8 de escape y admisión, el precio que tiene registrado es unitario
+            - Los anillos se suelen vender en 1 caja y el precio de la caja es el que esta registrado
+
+        -->
+        <Carrito IDCompra="CarrC001" fechaCompra="21/06/23" horaCompra="11:30pm" estadoCarrito="Puede ser cotizado; pagado; enviado; recibido">
+            <Cliente IDCliente="C001"/>
+            <Refacciones>
+                <!-- Precio por unidad 124-->
+                <!-- Valvulo necesariamente 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>992</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>992</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC002" fechaCompra="09/11/23" horaCompra="2:13pm" estadoCarrito="Puede ser cotizado; pagado; enviado; recibido">
+            <Cliente IDCliente="C002"/>
+            <Refacciones>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5664N-M">
+                    <!-- Precio por unidad 240-->
+                    <cantidadRefaccion>5</cantidadRefaccion>
+                    <subtotalRefaccion>1200</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <!-- Precio por unidad 450-->
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>450</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>1650</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC003" fechaCompra="8/01/23" horaCompra="3:45pm" estadoCarrito="enviado">
+            <Cliente IDCliente="C003"/>
+            <Refacciones>
+                <!-- Precio por unidad 680-->
+                <!-- 4 piezas necesariamente-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 124-->
+                <!-- Valvula necesariamente 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>992</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>3712</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC004" fechaCompra="15/01/23" horaCompra="9:00am" estadoCarrito="pagado">
+            <Cliente IDCliente="C004"/>
+            <Refacciones>
+                <!-- Precio por unidad 100 -->
+                <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+                    <cantidadRefaccion>3</cantidadRefaccion>
+                    <subtotalRefaccion>300</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 450-->
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>450</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>750</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC005" fechaCompra="20/01/23" horaCompra="1:30pm" estadoCarrito="puede ser cotizado">
+            <Cliente IDCliente="C005"/>
+            <Refacciones>
+                <!-- Precio por unidad 420-->
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>5</cantidadRefaccion>
+                    <subtotalRefaccion>2100</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 120-->
+                <!-- 8 valvulas necesariamente-->
+                <Refaccion IDRefaccion="VALVULA-S-7946-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>960</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>3060</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC006" fechaCompra="25/01/23" horaCompra="10:15am" estadoCarrito="recibido">
+            <Cliente IDCliente="C006"/>
+            <Refacciones>
+                <!-- Precio 680 por unidad-->
+                <!-- 4 piezas necesariamente-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 420-->
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>840</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 124-->
+                <!-- 8 piezas necesariamente-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>992</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>4552</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC007" fechaCompra="28/01/23" horaCompra="4:20pm" estadoCarrito="enviado">
+            <Cliente IDCliente="C007"/>
+            <Refacciones>
+                <!-- Precio por unidad 100-->
+                <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+                    <cantidadRefaccion>3</cantidadRefaccion>
+                    <subtotalRefaccion>300</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 450-->
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>900</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 420-->
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>1680</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 680-->
+                <!-- Se veneden 4 necesariamente-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 120-->
+                <!-- Se venden 8 necesariamente-->
+                <Refaccion IDRefaccion="VALVULA-S-7946-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>960</subtotalRefaccion>
+                </Refaccion>
+                <!-- Precio por unidad 132-->
+                <!-- Se venden 8 necesariamente-->
+                <Refaccion IDRefaccion="VALVULA-V-7947X-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>1056</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>7616</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC008" fechaCompra="01/02/23" horaCompra="8:30am" estadoCarrito="puede ser cotizado">
+            <Cliente IDCliente="C008"/>
+            <Refacciones>
+                <!-- Se venden 8 necesariamente-->
+                <!-- Precio por unidad 124-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>992</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="BALANCIN-E-B220H-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>200</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>3</cantidadRefaccion>
+                    <subtotalRefaccion>1260</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>450</subtotalRefaccion>
+                </Refaccion>
+                <!-- Se venden 8 piezas-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>5440</subtotalRefaccion>
+                </Refaccion>
+                <!-- Se venden 8 necesariamente-->
+                <Refaccion IDRefaccion="VALVULA-S-7946-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>960</subtotalRefaccion>
+                </Refaccion>
+                <!-- Se venden 8 necesariamente-->
+                <Refaccion IDRefaccion="VALVULA-V-7947X-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>1056</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+                    <cantidadRefaccion>3</cantidadRefaccion>
+                    <subtotalRefaccion>300</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>10658</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC009" fechaCompra="05/02/23" horaCompra="11:00am" estadoCarrito="puede ser cotizado">
+            <Cliente IDCliente="C009"/>
+            <Refacciones>
+                <!-- Se venden 4 necesariamente-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>2720</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC010" fechaCompra="08/02/23" horaCompra="2:30pm" estadoCarrito="enviado">
+            <Cliente IDCliente="C010"/>
+            <Refacciones>
+                <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>100</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>900</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>1000</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC011" fechaCompra="10/02/24" horaCompra="9:15am" estadoCarrito="recibido">
+            <Cliente IDCliente="C011"/>
+            <Refacciones>
+                <!-- Se venden 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>992</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="BALANCIN-E-B220H-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>100</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>3</cantidadRefaccion>
+                    <subtotalRefaccion>1260</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>2352</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC012" fechaCompra="12/02/23" horaCompra="5:00pm" estadoCarrito="pagado">
+            <Cliente IDCliente="C012"/>
+            <Refacciones>
+                <!-- Necesariamente 16 piezas-->
+                <Refaccion IDRefaccion="VALVULA-S-7946-M">
+                    <cantidadRefaccion>16</cantidadRefaccion>
+                    <subtotalRefaccion>1920</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>450</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>840</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 4 piezas-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>200</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>6130</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC013" fechaCompra="15/08/23" horaCompra="8:45am" estadoCarrito="puede ser cotizado">
+            <Cliente IDCliente="C013"/>
+            <Refacciones>
+                <Refaccion IDRefaccion="BALANCIN-E-B220H-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>100</subtotalRefaccion>
+                </Refaccion>
+                <!-- 8 piezas necesariamente-->
+                <Refaccion IDRefaccion="VALVULA-V-7947X-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>1056</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>420</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>450</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>2026</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC014" fechaCompra="18/04/23" horaCompra="3:10pm" estadoCarrito="enviado">
+            <Cliente IDCliente="C014"/>
+            <Refacciones>
+                <!-- Necesariamente 4 piezas-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 16 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>16</cantidadRefaccion>
+                    <subtotalRefaccion>1984</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>200</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>5</cantidadRefaccion>
+                    <subtotalRefaccion>2100</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>450</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-S-7946-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>960</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>8414</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC015" fechaCompra="20/11/23" horaCompra="12:00pm" estadoCarrito="recibido">
+            <Cliente IDCliente="C015"/>
+            <Refacciones>
+                <!-- Necesariamente 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>992</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="BALANCIN-E-B220H-M">
+                    <cantidadRefaccion>3</cantidadRefaccion>
+                    <subtotalRefaccion>300</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>840</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>2132</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC016" fechaCompra="22/04/23" horaCompra="4:50pm" estadoCarrito="puede ser cotizado">
+            <Cliente IDCliente="C016"/>
+            <Refacciones>
+                <!-- Necesariamente 4 piezas-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 16 piezas-->
+                <Refaccion IDRefaccion="VALVULA-S-7946-M">
+                    <cantidadRefaccion>16</cantidadRefaccion>
+                    <subtotalRefaccion>1920</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>4640</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC017" fechaCompra="25/05/24" horaCompra="10:30am" estadoCarrito="enviado">
+            <Cliente IDCliente="C017"/>
+            <Refacciones>
+                <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>200</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>900</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>3</cantidadRefaccion>
+                    <subtotalRefaccion>1260</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 4 piezas-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>992</subtotalRefaccion>
+                </Refaccion>
+                 <!-- Necesariamente 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-S-7946-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>960</subtotalRefaccion>
+                </Refaccion>
+                 <!-- Necesariamente 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-7947X-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>1056</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>8088</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC018" fechaCompra="28/11/23" horaCompra="2:45pm" estadoCarrito="pagado">
+            <Cliente IDCliente="C018"/>
+            <Refacciones>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>420</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>420</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC019" fechaCompra="03/06/23" horaCompra="11:10am" estadoCarrito="puede ser cotizado">
+            <Cliente IDCliente="C019"/>
+            <Refacciones>
+                <!-- Necesariamente 4 piezas-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 16 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>16</cantidadRefaccion>
+                    <subtotalRefaccion>1984</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="BALANCIN-E-B220H-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>100</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>450</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>5254</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC020" fechaCompra="05/12/24" horaCompra="4:30pm" estadoCarrito="enviado">
+            <Cliente IDCliente="C020"/>
+            <Refacciones>
+                <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+                    <cantidadRefaccion>2</cantidadRefaccion>
+                    <subtotalRefaccion>200</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="ANILLOS-STD-MAP5136C-M">
+                    <cantidadRefaccion>3</cantidadRefaccion>
+                    <subtotalRefaccion>1260</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 4 piezas-->
+                <Refaccion IDRefaccion="PISTON-STD-973-M">
+                    <cantidadRefaccion>4</cantidadRefaccion>
+                    <subtotalRefaccion>2720</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 16 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>16</cantidadRefaccion>
+                    <subtotalRefaccion>1984</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 16 piezas-->
+                <Refaccion IDRefaccion="VALVULA-S-7946-M">
+                    <cantidadRefaccion>16</cantidadRefaccion>
+                    <subtotalRefaccion>1920</subtotalRefaccion>
+                </Refaccion>
+                <!-- Necesariamente 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-7947X-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>1056</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>9140</totalCarrito>
+        </Carrito>        
+    </Carritos>
+</Refaccionaria>
