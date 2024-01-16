@@ -1,0 +1,254 @@
+Consulta solo las refacciones:
+SELECT XMLQuery('/Refaccionaria/Refacciones/Refaccion'
+                PASSING o.OBJECT_VALUE
+                RETURNING CONTENT) AS refacciones
+FROM refaccionaria o;
+
+
+INSERT INTO refaccionaria VALUES (
+    XMLType('
+    <Refaccionaria>
+        <Refacciones>
+            <Refaccion IDRefaccion="FRENOS-ABS-001">
+                <marca>BREMBO</marca>
+                <precio>1200.00</precio>
+                <descripcion>Sistema de frenos ABS modelo 2024</descripcion>
+                <cantidad_existente>30</cantidad_existente>
+                <fecha_ultimo_precio>2024-01-15</fecha_ultimo_precio>
+            </Refaccion>
+        </Refacciones>
+    </Refaccionaria>'
+    )
+);
+
+DELETE FROM refaccionaria
+WHERE XMLExists('/Refaccionaria/Refacciones/Refaccion[@IDRefaccion="FRENOS-ABS-001"]' PASSING OBJECT_VALUE);
+
+
+
+
+INSERT INTO refaccionaria VALUES (
+    XMLType('
+    <Refaccionaria>
+        <Clientes>
+            <Cliente IDCliente="C021" Autentificacion="Verdadero">
+                <datosPersonales>
+                    <correo>adrian652@gmail.com</correo>
+                    <contrasena>horno873</contrasena>
+                    <nombre>Adrian</nombre>
+                    <apellidos>
+                        <paterno>Sanchez</paterno>
+                        <materno>Velazquez</materno>
+                    </apellidos>
+                </datosPersonales>
+                <datosFiscales>
+                    <rfc>XYZA920704ABD</rfc>
+                    <curp>XYZA920704HDFBCR00</curp>
+                    <domicilio>Av. Ignacio Saragoza 200, Las Fuentes</domicilio>
+                    <cp>89344</cp>
+                    <telefono>5532934762</telefono>
+                </datosFiscales>
+                <tarjetasBancarias>
+                    <tarjetaBancaria IDTarjeta="3242-1867-34345-7185" fechaVencimiento="11/32" cvv="322"/>
+                </tarjetasBancarias>
+                <Carritos>
+                    <Carrito IDCarrito="CarrC021"/>
+                </Carritos>
+            </Cliente>
+        </Clientes>
+    </Refaccionaria>'
+    )
+);
+
+DELETE FROM refaccionaria
+WHERE XMLExists('/Refaccionaria/Clientes/Cliente[@IDCliente="C021"]' PASSING OBJECT_VALUE);
+
+UPDATE refaccionaria
+SET OBJECT_VALUE = 
+    UPDATEXML(
+        OBJECT_VALUE,
+        'Refaccionaria/Clientes/Cliente[@IDCliente="C021"]/datosPersonales/contrasena/text()',
+        'hola_mundo123'
+    )
+WHERE XMLExists('Refaccionaria/Clientes/Cliente[@IDCliente="C021"]' PASSING OBJECT_VALUE);
+
+INSERT INTO refaccionaria VALUES (
+    XMLType('
+    <Refaccionaria>
+        <Automoviles>
+            <Automovil IDAuto="FIESTA-1.4L-2004">
+                <Marca>Suzuki</Marca>
+                <Submarca>Swift</Submarca>
+                <Modelo>2021</Modelo>
+                <Motor IDMotor="FORD-LINCOLN-MERCURY-L4-8V-1.3L-OHV-HCS-Endura"/>
+            </Automovil>
+        </Automoviles>
+    </Refaccionaria>'
+    )
+);
+DELETE FROM refaccionaria
+WHERE XMLExists('/Refaccionaria/Automoviles/Automovil[@IDAuto="FIESTA-1.4L-2004"]' PASSING OBJECT_VALUE);
+
+
+INSERT INTO refaccionaria VALUES (
+    XMLType('
+    <Refaccionaria>
+        <Motores>
+            <Motor IDMotor="TOYOTA-V6-24V-3.5L-DOHC">
+                <posicionPistones>V</posicionPistones>
+                <numeroPistones>6</numeroPistones>
+                <numeroLitros>3.5</numeroLitros>
+                <numeroValvulas>24</numeroValvulas>
+                <tipoArbol>DOHC</tipoArbol>
+                <infoAdicional>(3500cc) VVT-i, inyección directa</infoAdicional>
+                <rangoModelos>2020-2024</rangoModelos>
+                <Refacciones>
+                    <Refaccion IDRefaccion="VALVULA-T-8500-V"/>
+                </Refacciones>
+                <Automoviles> 
+                    <Automovil IDAuto="CAMRY-3.5L-2021"/>       
+                    <Automovil IDAuto="AVALON-3.5L-2022"/>
+                </Automoviles>
+            </Motor>
+        </Motores>
+    </Refaccionaria>'
+    )
+);
+
+DELETE FROM refaccionaria
+WHERE XMLExists('/Refaccionaria/Motores/Motor[@IDMotor="TOYOTA-V6-24V-3.5L-DOHC"]' PASSING OBJECT_VALUE);
+
+
+INSERT INTO refaccionaria VALUES (
+    XMLType('
+    <Refaccionaria>
+        <Carritos>
+            <Carrito IDCompra="CarrC021" fechaCompra="05/11/23" horaCompra="4:30pm" estadoCarrito="enviado">
+                <Cliente IDCliente="C021"/>
+                <Refacciones>
+                    <Refaccion IDRefaccion="BALANCIN-A-B220H-M">
+                        <cantidadRefaccion>2</cantidadRefaccion>
+                        <subtotalRefaccion>200</subtotalRefaccion>
+                    </Refaccion>
+                </Refacciones>
+                <totalCarrito>400</totalCarrito>
+            </Carrito>
+        </Carritos> 
+    </Refaccionaria>'
+    )
+);
+
+DELETE FROM refaccionaria
+WHERE XMLExists('/Refaccionaria/Carritos/Carrito/Refacciones/Refaccion[@IDRefaccion="BALANCIN-A-B220H-M"]' PASSING OBJECT_VALUE);
+
+
+UPDATE refaccionaria
+SET OBJECT_VALUE = 
+    UPDATEXML(
+        OBJECT_VALUE,
+        'Refaccionaria/Refacciones/Refaccion[@IDRefaccion="PISTON-STD-973-M"]/precio/text()',
+        '900'
+    )
+WHERE XMLExists('Refaccionaria/Refacciones/Refaccion[@IDRefaccion="PISTON-STD-973-M"]' PASSING OBJECT_VALUE);
+
+UPDATE refaccionaria
+SET OBJECT_VALUE = 
+    UPDATEXML(
+        OBJECT_VALUE,
+        'Refaccionaria/Motores/Motor[@IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"]/numeroPistones/text()',
+        '5'
+    )
+WHERE XMLExists('Refaccionaria/Motores/Motor[@IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"]' PASSING OBJECT_VALUE);
+
+<!--Acualizaciòn de datos de automoviles-->
+<!--Edición de Información de Cliente: 
+    Permite actualizar la información de contacto o dirección de un cliente existente en la base de datos. 
+-->
+
+<!--
+    Corrección de errores en registros: 
+
+Permite corregir información incorrecta o inexacta en registros existentes, como resolver errores de escritura en nombres o direcciones. 
+-->
+
+<!--
+    Actualización de estado de pedido: 
+
+Permite cambiar el estado de una compra (pendiente, pagado, en camino, entregado o cancelado). 
+-->
+
+<!--
+    Actualización del carrito de compras: 
+
+Permite modificar el carrito de compras para cada cliente, agregando o eliminando productos, y con ello, el subtotal por cada tipo de producto y total del carrito. 
+-->
+
+<Automoviles>   
+        <Automovil IDAuto="ATOS-1.0L-2000">
+            <Marca>Hyundai</Marca>
+            <Submarca>ATOS</Submarca>
+            <Modelo>2000</Modelo>
+            <Motor IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-G4HC"/>
+        </Automovil>
+</Automoviles>
+
+<Clientes>
+        <Cliente IDCliente="C001" Autentificacion="Verdadero">
+            <datosPersonales>
+                <correo>alejandrogonzalezflores@gmail.com</correo>
+                <contrasena>passC001</contrasena>
+                <nombre>Alejandro</nombre>
+                <apellidos>
+                    <paterno>Gonzalez</paterno>
+                    <materno>Flores</materno>
+                </apellidos>
+            </datosPersonales>
+            <datosFiscales>
+                <rfc>DV7402V9HS007</rfc>
+                <curp>DV7402V9HS007095V3</curp>
+                <domicilio>Condominio 1, Sendero del Planeta 122, Villa Fantasia</domicilio>
+                <cp>40666</cp>
+                <telefono>5521983446</telefono>
+            </datosFiscales>
+            <tarjetasBancarias>
+                <tarjetaBancaria IDTarjeta="4434-8777-8435-9604" fechaVencimiento="11/26" cvv="451"/>
+            </tarjetasBancarias>
+            <Carritos>
+                <Carrito IDCarrito="CarrC001"/>
+            </Carritos>
+        </Cliente>
+</Clientes>
+
+
+    <Carritos>
+        <Carrito IDCompra="CarrC001" fechaCompra="21/06/23" horaCompra="11:30pm" estadoCarrito="Puede ser cotizado; pagado; enviado; recibido">
+            <Cliente IDCliente="C001"/>
+            <Refacciones>
+                <!-- Precio por unidad 124-->
+                <!-- Valvulo necesariamente 8 piezas-->
+                <Refaccion IDRefaccion="VALVULA-V-9939-M">
+                    <cantidadRefaccion>8</cantidadRefaccion>
+                    <subtotalRefaccion>992</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>992</totalCarrito>
+        </Carrito>
+        <Carrito IDCompra="CarrC002" fechaCompra="09/11/23" horaCompra="2:13pm" estadoCarrito="Puede ser cotizado; pagado; enviado; recibido">
+            <Cliente IDCliente="C002"/>
+            <Refacciones>
+                <Refaccion IDRefaccion="ANILLOS-030-MAP5664N-M">
+                    <!-- Precio por unidad 240-->
+                    <cantidadRefaccion>5</cantidadRefaccion>
+                    <subtotalRefaccion>1200</subtotalRefaccion>
+                </Refaccion>
+                <Refaccion IDRefaccion="PERNO-5172-M">
+                    <!-- Precio por unidad 450-->
+                    <cantidadRefaccion>1</cantidadRefaccion>
+                    <subtotalRefaccion>450</subtotalRefaccion>
+                </Refaccion>
+            </Refacciones>
+            <totalCarrito>1650</totalCarrito>
+        </Carrito>
+
+
+
