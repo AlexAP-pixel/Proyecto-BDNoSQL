@@ -160,6 +160,54 @@ SET OBJECT_VALUE =
     )
 WHERE XMLExists('Refaccionaria/Motores/Motor[@IDMotor="CHRYSLER-HYUNDAI-L4-12V-1.0L-SOHC-Hyundai-G4HC"]' PASSING OBJECT_VALUE);
 
+UPDATE refaccionaria
+SET OBJECT_VALUE = 
+    UPDATEXML(
+        OBJECT_VALUE,
+        'Refaccionaria/Automoviles/Automovil[@IDAuto="FOCUS-ST-2.5L-2015"]/Modelo/text()',
+        '2010'
+    )
+WHERE XMLExists('Refaccionaria/Automoviles/Automovil[@IDAuto="FOCUS-ST-2.5L-2015"]' PASSING OBJECT_VALUE);
+
+UPDATE refaccionaria
+SET OBJECT_VALUE = 
+    UPDATEXML(
+        OBJECT_VALUE,
+        'Refaccionaria/Clientes/Cliente[@IDCliente="C001"]/datosFiscales/telefono/text()',
+        '5581769555'
+    )
+WHERE XMLExists('Refaccionaria/Clientes/Cliente[@IDCliente="C001"]' PASSING OBJECT_VALUE);
+
+UPDATE refaccionaria
+SET OBJECT_VALUE = 
+    UPDATEXML(
+        OBJECT_VALUE,
+        'Refaccionaria/Refacciones/Refaccion[@IDRefaccion="PISTON-020-942-M"]/descripcion/text()',
+        'Pistón en medida punto cero veinte, 73.97 mm de diámetro'
+    )
+WHERE XMLExists('Refaccionaria/Refacciones/Refaccion[@IDRefaccion="PISTON-020-942-M"]' PASSING OBJECT_VALUE);
+
+UPDATE refaccionaria
+SET OBJECT_VALUE = 
+    UPDATEXML(
+        OBJECT_VALUE,
+        'Refaccionaria/Carritos/Carrito[@IDCompra="CarrC020"]/@estadoCarrito',
+        'pagado'
+    )
+WHERE XMLExists('Refaccionaria/Carritos/Carrito[@IDCompra="CarrC020"]' PASSING OBJECT_VALUE);
+
+
+
+
+
+UPDATE refaccionaria
+SET OBJECT_VALUE = 
+    UPDATEXML(
+        OBJECT_VALUE,
+        'Refaccionaria/Carritos/Carrito[@IDCompra="CarrC020"]/Refacciones/Refaccion[@IDRefaccion="BALANCIN-A-B220H-M"]/cantidadRefaccion/text()',
+        '1'
+    )
+WHERE XMLExists('Refaccionaria/Carritos/Carrito[@IDCompra="CarrC020"]/Refacciones/Refaccion[@IDRefaccion="BALANCIN-A-B220H-M"]' PASSING OBJECT_VALUE);
 <!--Acualizaciòn de datos de automoviles-->
 <!--Edición de Información de Cliente: 
     Permite actualizar la información de contacto o dirección de un cliente existente en la base de datos. 
@@ -249,6 +297,3 @@ Permite modificar el carrito de compras para cada cliente, agregando o eliminand
             </Refacciones>
             <totalCarrito>1650</totalCarrito>
         </Carrito>
-
-
-
